@@ -1,0 +1,2562 @@
+{
+  "0x90bcdacbd3a8d1f111ff4ec80e4209dd297de90b": {
+    "snapshot": {
+      "total": "1148752843574952748895",
+      "balances": {
+        "delphi": "1148752843574952748895",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x281e2e4298f0325783d4f732cd59740fb9ad63b80f37d2c1ad23665177ae3d09",
+      "0x45657c1209cc1b6bcf2df2eae9ba4555ad542bebaf5c245c642d6fca6d6ebd15",
+      "0x95eb4ef59e7e178f1f2a850c3c90d9135af6b09a9844c5f75d82fa2cf355e806",
+      "0x4baef279c76e4bb2db281cc77b6650ace0c66d57e94586f4dcce8b81e2e21183",
+      "0x786b52f6b776422609d92c312a0a88b8c39cad17416d55ffaac82c86a9ae32d0",
+      "0x15db652875db5cb93b4f313ee228c2b744c1476446727ec828044c6aa34573bd",
+      "0x4748b362894f9e129a2640706c59e6171b4a6584ac012caf2c509ff80a63dea8"
+    ]
+  },
+  "0x073d9bc78b162bc4194faa4a10aaa9007274b398": {
+    "snapshot": {
+      "total": "146173229535624670916",
+      "balances": {
+        "delphi": "146173229535624670916",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x5497c861dffb35d72842346b21a777088ddaaa3789af6c34a037ba8704c376e2",
+      "0x45657c1209cc1b6bcf2df2eae9ba4555ad542bebaf5c245c642d6fca6d6ebd15",
+      "0x95eb4ef59e7e178f1f2a850c3c90d9135af6b09a9844c5f75d82fa2cf355e806",
+      "0x4baef279c76e4bb2db281cc77b6650ace0c66d57e94586f4dcce8b81e2e21183",
+      "0x786b52f6b776422609d92c312a0a88b8c39cad17416d55ffaac82c86a9ae32d0",
+      "0x15db652875db5cb93b4f313ee228c2b744c1476446727ec828044c6aa34573bd",
+      "0x4748b362894f9e129a2640706c59e6171b4a6584ac012caf2c509ff80a63dea8"
+    ]
+  },
+  "0xdca853adc921b880d66f3a6847e6bc6fa507e97f": {
+    "snapshot": {
+      "total": "1199635932136189467201",
+      "balances": {
+        "delphi": "1199635932136189467201",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0xc427901d88b3e6b70bd086de9024c3900a30e2cc078c9ad8f254b7dfebc83e32",
+      "0x74def10885caa634b9d470a70e5973a25b58f881cf5a003d6af816184e9854a4",
+      "0x95eb4ef59e7e178f1f2a850c3c90d9135af6b09a9844c5f75d82fa2cf355e806",
+      "0x4baef279c76e4bb2db281cc77b6650ace0c66d57e94586f4dcce8b81e2e21183",
+      "0x786b52f6b776422609d92c312a0a88b8c39cad17416d55ffaac82c86a9ae32d0",
+      "0x15db652875db5cb93b4f313ee228c2b744c1476446727ec828044c6aa34573bd",
+      "0x4748b362894f9e129a2640706c59e6171b4a6584ac012caf2c509ff80a63dea8"
+    ]
+  },
+  "0xd10098d8ade972a2fa2bc95a092270342d531f7c": {
+    "snapshot": {
+      "total": "746443920187792514298",
+      "balances": {
+        "delphi": "746443920187792514298",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x0b0aae674708758a57143a601524712aa3e096e143063648c659b504a76f720c",
+      "0x74def10885caa634b9d470a70e5973a25b58f881cf5a003d6af816184e9854a4",
+      "0x95eb4ef59e7e178f1f2a850c3c90d9135af6b09a9844c5f75d82fa2cf355e806",
+      "0x4baef279c76e4bb2db281cc77b6650ace0c66d57e94586f4dcce8b81e2e21183",
+      "0x786b52f6b776422609d92c312a0a88b8c39cad17416d55ffaac82c86a9ae32d0",
+      "0x15db652875db5cb93b4f313ee228c2b744c1476446727ec828044c6aa34573bd",
+      "0x4748b362894f9e129a2640706c59e6171b4a6584ac012caf2c509ff80a63dea8"
+    ]
+  },
+  "0x06071e7e4133fa044168feade5ed31dbeaf2fcb3": {
+    "snapshot": {
+      "total": "37299775625194663007278",
+      "balances": {
+        "delphi": "37299775625194663007278",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x35d648b0396a001361585a6cf20868930a1a277146aa50645a1d1d59c24e9274",
+      "0xa1047772eaad796d17db0e06836a24c98be778c57c6f2bc51b38cc63069610f2",
+      "0x96dfac9f18760f47b254faf15f13e57c3e5b002648e9c8e3b37ec5e3bf1d3cc0",
+      "0x4baef279c76e4bb2db281cc77b6650ace0c66d57e94586f4dcce8b81e2e21183",
+      "0x786b52f6b776422609d92c312a0a88b8c39cad17416d55ffaac82c86a9ae32d0",
+      "0x15db652875db5cb93b4f313ee228c2b744c1476446727ec828044c6aa34573bd",
+      "0x4748b362894f9e129a2640706c59e6171b4a6584ac012caf2c509ff80a63dea8"
+    ]
+  },
+  "0x654b086661d4e6b299ee9a687d81f537dd5ce29c": {
+    "snapshot": {
+      "total": "164139931252998110267",
+      "balances": {
+        "delphi": "164139931252998110267",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x68ac2351872cdb120060054972091ffd07966fa9b15f52d32d3c6677d5f6c79f",
+      "0xa1047772eaad796d17db0e06836a24c98be778c57c6f2bc51b38cc63069610f2",
+      "0x96dfac9f18760f47b254faf15f13e57c3e5b002648e9c8e3b37ec5e3bf1d3cc0",
+      "0x4baef279c76e4bb2db281cc77b6650ace0c66d57e94586f4dcce8b81e2e21183",
+      "0x786b52f6b776422609d92c312a0a88b8c39cad17416d55ffaac82c86a9ae32d0",
+      "0x15db652875db5cb93b4f313ee228c2b744c1476446727ec828044c6aa34573bd",
+      "0x4748b362894f9e129a2640706c59e6171b4a6584ac012caf2c509ff80a63dea8"
+    ]
+  },
+  "0x80e18641a5ea9c14ded93cfc202d29d316322cfa": {
+    "snapshot": {
+      "total": "71794338003934626613",
+      "balances": {
+        "delphi": "71794338003934626613",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x763f988c9e1c03a914000d9d2c71aea1a72da568533c8d39e7cf3be3c00aadcb",
+      "0x84332f30cd68a7ad4019e399e90342d50fa64f5f3f93c438a277c3fc18af76f2",
+      "0x96dfac9f18760f47b254faf15f13e57c3e5b002648e9c8e3b37ec5e3bf1d3cc0",
+      "0x4baef279c76e4bb2db281cc77b6650ace0c66d57e94586f4dcce8b81e2e21183",
+      "0x786b52f6b776422609d92c312a0a88b8c39cad17416d55ffaac82c86a9ae32d0",
+      "0x15db652875db5cb93b4f313ee228c2b744c1476446727ec828044c6aa34573bd",
+      "0x4748b362894f9e129a2640706c59e6171b4a6584ac012caf2c509ff80a63dea8"
+    ]
+  },
+  "0x0a28e438f95c6842552e3087be1024a5e361b866": {
+    "snapshot": {
+      "total": "3617710693995033579995",
+      "balances": {
+        "delphi": "3617710693995033579995",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x379341128af7ea91e5abffdb57f5036c6789f5d9baab19b37f9045f348ff93b8",
+      "0x84332f30cd68a7ad4019e399e90342d50fa64f5f3f93c438a277c3fc18af76f2",
+      "0x96dfac9f18760f47b254faf15f13e57c3e5b002648e9c8e3b37ec5e3bf1d3cc0",
+      "0x4baef279c76e4bb2db281cc77b6650ace0c66d57e94586f4dcce8b81e2e21183",
+      "0x786b52f6b776422609d92c312a0a88b8c39cad17416d55ffaac82c86a9ae32d0",
+      "0x15db652875db5cb93b4f313ee228c2b744c1476446727ec828044c6aa34573bd",
+      "0x4748b362894f9e129a2640706c59e6171b4a6584ac012caf2c509ff80a63dea8"
+    ]
+  },
+  "0x88caf597a2d236d4dcdaee883341cf58631faa80": {
+    "snapshot": {
+      "total": "9575682448005993137485",
+      "balances": {
+        "delphi": "9575682448005993137485",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x683d1b4ef97148b7c7255268d6e267f99d5bf482481514b6f939f0d8ee98dd68",
+      "0xd9a338dc3c3a973c73314abf10215234fc72dae4f7e56d59963419e7b11fb4dd",
+      "0xc1dcf0465b39940d717e0e7432f29077a313ace4f63ced6ce698b2c0c9894a65",
+      "0x7cb85b602b7a66e586ce8fe67a4aaf4da36555e9a5377ad693b1cda74f519efb",
+      "0x786b52f6b776422609d92c312a0a88b8c39cad17416d55ffaac82c86a9ae32d0",
+      "0x15db652875db5cb93b4f313ee228c2b744c1476446727ec828044c6aa34573bd",
+      "0x4748b362894f9e129a2640706c59e6171b4a6584ac012caf2c509ff80a63dea8"
+    ]
+  },
+  "0xbedde775b25466663aa3337c230eec01b5ba13d7": {
+    "snapshot": {
+      "total": "97480013566728032970",
+      "balances": {
+        "delphi": "97480013566728032970",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0xe224e1feee9603baa89dd07aeed5ddeca3448561013e2a6c6e5de7df13ba5c22",
+      "0xd9a338dc3c3a973c73314abf10215234fc72dae4f7e56d59963419e7b11fb4dd",
+      "0xc1dcf0465b39940d717e0e7432f29077a313ace4f63ced6ce698b2c0c9894a65",
+      "0x7cb85b602b7a66e586ce8fe67a4aaf4da36555e9a5377ad693b1cda74f519efb",
+      "0x786b52f6b776422609d92c312a0a88b8c39cad17416d55ffaac82c86a9ae32d0",
+      "0x15db652875db5cb93b4f313ee228c2b744c1476446727ec828044c6aa34573bd",
+      "0x4748b362894f9e129a2640706c59e6171b4a6584ac012caf2c509ff80a63dea8"
+    ]
+  },
+  "0xe33540f3a2c4aee682d3bfee806a8f6f9dc05712": {
+    "snapshot": {
+      "total": "954070723728864322766",
+      "balances": {
+        "delphi": "954070723728864322766",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x22bd9c3cec8a16c620e9c36e0842a2247bd8bc44e0296b853e8684d31aafcfd3",
+      "0x55786517ae5aea658fd6fa334dacc139ea92922baad9180be576faaa99bd867e",
+      "0xc1dcf0465b39940d717e0e7432f29077a313ace4f63ced6ce698b2c0c9894a65",
+      "0x7cb85b602b7a66e586ce8fe67a4aaf4da36555e9a5377ad693b1cda74f519efb",
+      "0x786b52f6b776422609d92c312a0a88b8c39cad17416d55ffaac82c86a9ae32d0",
+      "0x15db652875db5cb93b4f313ee228c2b744c1476446727ec828044c6aa34573bd",
+      "0x4748b362894f9e129a2640706c59e6171b4a6584ac012caf2c509ff80a63dea8"
+    ]
+  },
+  "0x7029115968b66bf148385fbe4fee608f81e41293": {
+    "snapshot": {
+      "total": "9083650525111472234130",
+      "balances": {
+        "delphi": "9083650525111472234130",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x85df1cc55322bbe93f2081746a982d7c28a1a35368d434e074169a7e277faa60",
+      "0x55786517ae5aea658fd6fa334dacc139ea92922baad9180be576faaa99bd867e",
+      "0xc1dcf0465b39940d717e0e7432f29077a313ace4f63ced6ce698b2c0c9894a65",
+      "0x7cb85b602b7a66e586ce8fe67a4aaf4da36555e9a5377ad693b1cda74f519efb",
+      "0x786b52f6b776422609d92c312a0a88b8c39cad17416d55ffaac82c86a9ae32d0",
+      "0x15db652875db5cb93b4f313ee228c2b744c1476446727ec828044c6aa34573bd",
+      "0x4748b362894f9e129a2640706c59e6171b4a6584ac012caf2c509ff80a63dea8"
+    ]
+  },
+  "0x3a8989e0dbb4f0532d4ac1bc15868bd6f4c0f579": {
+    "snapshot": {
+      "total": "388011899088378072520",
+      "balances": {
+        "delphi": "388011899088378072520",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0xa1746508ae6e7b104476d0c80cdc6beb89493260782281bb355d1f2fce7d9a94",
+      "0x04efd797d830fc774f9e302a7f7ae06fce7552b86027520223b67ee680e81e54",
+      "0xf1647ed5a7e953a1832c6bc0743c115c622ec15ee1d324c5a7af1ac97dc3ca87",
+      "0x7cb85b602b7a66e586ce8fe67a4aaf4da36555e9a5377ad693b1cda74f519efb",
+      "0x786b52f6b776422609d92c312a0a88b8c39cad17416d55ffaac82c86a9ae32d0",
+      "0x15db652875db5cb93b4f313ee228c2b744c1476446727ec828044c6aa34573bd",
+      "0x4748b362894f9e129a2640706c59e6171b4a6584ac012caf2c509ff80a63dea8"
+    ]
+  },
+  "0xe44dd6ea12db2a7e54d54e530291d1de5691d457": {
+    "snapshot": {
+      "total": "71841142415180215153",
+      "balances": {
+        "delphi": "71841142415180215153",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x6b34b7958236367dcf4993d68327539d3d1bdf0ee3ddc6bde88976a118bf21f0",
+      "0x04efd797d830fc774f9e302a7f7ae06fce7552b86027520223b67ee680e81e54",
+      "0xf1647ed5a7e953a1832c6bc0743c115c622ec15ee1d324c5a7af1ac97dc3ca87",
+      "0x7cb85b602b7a66e586ce8fe67a4aaf4da36555e9a5377ad693b1cda74f519efb",
+      "0x786b52f6b776422609d92c312a0a88b8c39cad17416d55ffaac82c86a9ae32d0",
+      "0x15db652875db5cb93b4f313ee228c2b744c1476446727ec828044c6aa34573bd",
+      "0x4748b362894f9e129a2640706c59e6171b4a6584ac012caf2c509ff80a63dea8"
+    ]
+  },
+  "0x246a2aa32be0880ee3c9f38f9bec1e9c74134b14": {
+    "snapshot": {
+      "total": "1125453965872764250",
+      "balances": {
+        "delphi": "1125453965872764250",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x25319e1c67bdffd5493b34ef5cd7d7bc47f28cab89005a6d7a013d2bbd0af4a5",
+      "0x92448891c11a46b2db9ef21eeac881e3390f3c93173d4ce8ef178e523e792d2c",
+      "0xf1647ed5a7e953a1832c6bc0743c115c622ec15ee1d324c5a7af1ac97dc3ca87",
+      "0x7cb85b602b7a66e586ce8fe67a4aaf4da36555e9a5377ad693b1cda74f519efb",
+      "0x786b52f6b776422609d92c312a0a88b8c39cad17416d55ffaac82c86a9ae32d0",
+      "0x15db652875db5cb93b4f313ee228c2b744c1476446727ec828044c6aa34573bd",
+      "0x4748b362894f9e129a2640706c59e6171b4a6584ac012caf2c509ff80a63dea8"
+    ]
+  },
+  "0x38e4e63a11cc4a8dc43b5fbc24813ac7d48985e6": {
+    "snapshot": {
+      "total": "728604583289505399080",
+      "balances": {
+        "delphi": "728604583289505399080",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x4580cebca9574b636444d8a8fb9f24cb7c271cae3f0bd0402d2d5c9219832f5c",
+      "0x92448891c11a46b2db9ef21eeac881e3390f3c93173d4ce8ef178e523e792d2c",
+      "0xf1647ed5a7e953a1832c6bc0743c115c622ec15ee1d324c5a7af1ac97dc3ca87",
+      "0x7cb85b602b7a66e586ce8fe67a4aaf4da36555e9a5377ad693b1cda74f519efb",
+      "0x786b52f6b776422609d92c312a0a88b8c39cad17416d55ffaac82c86a9ae32d0",
+      "0x15db652875db5cb93b4f313ee228c2b744c1476446727ec828044c6aa34573bd",
+      "0x4748b362894f9e129a2640706c59e6171b4a6584ac012caf2c509ff80a63dea8"
+    ]
+  },
+  "0xc9b67c14c24be43ee6a55414526aa5c70e164163": {
+    "snapshot": {
+      "total": "89234535301884345244616",
+      "balances": {
+        "delphi": "89234535301884345244616",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x71603a41a8162542a49e15d72276c79333fba42559c7d487ac5a733fe1c99d57",
+      "0x2a38e8095bbd8b2826ae67368ad3569039765cd2f2dd92895c5c970fe71cdc3f",
+      "0x6cad497e01078048eb4ccbf6a2f94072f17edbb2d027361560ea711fd36c588f",
+      "0xa3a3e43610094d71aace44e953e7632b461feef7a4a6e1f385ce9c2796f4573c",
+      "0xdc94f4fd5d2f6a9a33bdfe2c481b1364e57aea39ed833d59ad69dc9e464f45f9",
+      "0x15db652875db5cb93b4f313ee228c2b744c1476446727ec828044c6aa34573bd",
+      "0x4748b362894f9e129a2640706c59e6171b4a6584ac012caf2c509ff80a63dea8"
+    ]
+  },
+  "0x46518007ccad8fe2c3e1083e90c24784273e79e0": {
+    "snapshot": {
+      "total": "1715132206493158264493",
+      "balances": {
+        "delphi": "1715132206493158264493",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0xcd9663dbb1047aa4ea43b0ab931eb2171c41401883e671569aeb90069169e2e9",
+      "0x2a38e8095bbd8b2826ae67368ad3569039765cd2f2dd92895c5c970fe71cdc3f",
+      "0x6cad497e01078048eb4ccbf6a2f94072f17edbb2d027361560ea711fd36c588f",
+      "0xa3a3e43610094d71aace44e953e7632b461feef7a4a6e1f385ce9c2796f4573c",
+      "0xdc94f4fd5d2f6a9a33bdfe2c481b1364e57aea39ed833d59ad69dc9e464f45f9",
+      "0x15db652875db5cb93b4f313ee228c2b744c1476446727ec828044c6aa34573bd",
+      "0x4748b362894f9e129a2640706c59e6171b4a6584ac012caf2c509ff80a63dea8"
+    ]
+  },
+  "0x943a72a989643ba56a6485883943c8cd80e9f993": {
+    "snapshot": {
+      "total": "20027482694138714578003",
+      "balances": {
+        "delphi": "20027482694138714578003",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0xc1c5e1e7a7ff87be46581b3f9f6e067bdd39b7bf1fd2f6965a3199489eef0773",
+      "0x50620dc7b0166dd51250984ddab74158b32341455cc85f24db01e26f3e197e4a",
+      "0x6cad497e01078048eb4ccbf6a2f94072f17edbb2d027361560ea711fd36c588f",
+      "0xa3a3e43610094d71aace44e953e7632b461feef7a4a6e1f385ce9c2796f4573c",
+      "0xdc94f4fd5d2f6a9a33bdfe2c481b1364e57aea39ed833d59ad69dc9e464f45f9",
+      "0x15db652875db5cb93b4f313ee228c2b744c1476446727ec828044c6aa34573bd",
+      "0x4748b362894f9e129a2640706c59e6171b4a6584ac012caf2c509ff80a63dea8"
+    ]
+  },
+  "0x662b7c11e20547026f2c10403958b81dd64e9a38": {
+    "snapshot": {
+      "total": "836560939348074384725",
+      "balances": {
+        "delphi": "836560939348074384725",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0xfb5f7e39497de51e24d373da035beba17e9f35e6a2949418a2973d9dab3251d3",
+      "0x50620dc7b0166dd51250984ddab74158b32341455cc85f24db01e26f3e197e4a",
+      "0x6cad497e01078048eb4ccbf6a2f94072f17edbb2d027361560ea711fd36c588f",
+      "0xa3a3e43610094d71aace44e953e7632b461feef7a4a6e1f385ce9c2796f4573c",
+      "0xdc94f4fd5d2f6a9a33bdfe2c481b1364e57aea39ed833d59ad69dc9e464f45f9",
+      "0x15db652875db5cb93b4f313ee228c2b744c1476446727ec828044c6aa34573bd",
+      "0x4748b362894f9e129a2640706c59e6171b4a6584ac012caf2c509ff80a63dea8"
+    ]
+  },
+  "0xd8cb3107d4a726a8b406812e4bacb6be636c27fd": {
+    "snapshot": {
+      "total": "387233894408785602081",
+      "balances": {
+        "delphi": "387233894408785602081",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0xe5695407c7a3111445cbb6eba13a5092dd3ded44a181a82d0474089a8a6e93ea",
+      "0x919c6764a29051017439a7d5c67c5ec0ed3e4aa55d48fff1624db027ff6abdb3",
+      "0xa92b68fc05c492d1f8b647b49c47dc6fe33ef47dfa9ea9f9f8a08b47090c2c64",
+      "0xa3a3e43610094d71aace44e953e7632b461feef7a4a6e1f385ce9c2796f4573c",
+      "0xdc94f4fd5d2f6a9a33bdfe2c481b1364e57aea39ed833d59ad69dc9e464f45f9",
+      "0x15db652875db5cb93b4f313ee228c2b744c1476446727ec828044c6aa34573bd",
+      "0x4748b362894f9e129a2640706c59e6171b4a6584ac012caf2c509ff80a63dea8"
+    ]
+  },
+  "0x8938f957d5ef7f4f5492baafe81e614f1e5ae284": {
+    "snapshot": {
+      "total": "55200517157994414446875",
+      "balances": {
+        "delphi": "55200517157994414446875",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x1598a0cc30f9055c7d262f442b3c091d723af68a8d811a688c11bc6be7252d0b",
+      "0x919c6764a29051017439a7d5c67c5ec0ed3e4aa55d48fff1624db027ff6abdb3",
+      "0xa92b68fc05c492d1f8b647b49c47dc6fe33ef47dfa9ea9f9f8a08b47090c2c64",
+      "0xa3a3e43610094d71aace44e953e7632b461feef7a4a6e1f385ce9c2796f4573c",
+      "0xdc94f4fd5d2f6a9a33bdfe2c481b1364e57aea39ed833d59ad69dc9e464f45f9",
+      "0x15db652875db5cb93b4f313ee228c2b744c1476446727ec828044c6aa34573bd",
+      "0x4748b362894f9e129a2640706c59e6171b4a6584ac012caf2c509ff80a63dea8"
+    ]
+  },
+  "0x5eb166acb5517ea4bb4e2800dc58352fb002034e": {
+    "snapshot": {
+      "total": "80097987795979774091393",
+      "balances": {
+        "delphi": "80097987795979774091393",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x78d4c39c763d20ca9090dd5731b93633702b90aa715eda147821f1a5d5390fc5",
+      "0xb16b4a8f788e43e5a834c73201f01c219e95f81d3c6d8d7de596ae086451cf4e",
+      "0xa92b68fc05c492d1f8b647b49c47dc6fe33ef47dfa9ea9f9f8a08b47090c2c64",
+      "0xa3a3e43610094d71aace44e953e7632b461feef7a4a6e1f385ce9c2796f4573c",
+      "0xdc94f4fd5d2f6a9a33bdfe2c481b1364e57aea39ed833d59ad69dc9e464f45f9",
+      "0x15db652875db5cb93b4f313ee228c2b744c1476446727ec828044c6aa34573bd",
+      "0x4748b362894f9e129a2640706c59e6171b4a6584ac012caf2c509ff80a63dea8"
+    ]
+  },
+  "0xdc48569f083d204b5fd34bc5b2b8c06aa1f8c484": {
+    "snapshot": {
+      "total": "80763279728390945820138",
+      "balances": {
+        "delphi": "80763279728390945820138",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0xfff17572c27e5ed7dc6ead1df77245ebe0eae9f07c3ff8d3a32d5f51372400aa",
+      "0xb16b4a8f788e43e5a834c73201f01c219e95f81d3c6d8d7de596ae086451cf4e",
+      "0xa92b68fc05c492d1f8b647b49c47dc6fe33ef47dfa9ea9f9f8a08b47090c2c64",
+      "0xa3a3e43610094d71aace44e953e7632b461feef7a4a6e1f385ce9c2796f4573c",
+      "0xdc94f4fd5d2f6a9a33bdfe2c481b1364e57aea39ed833d59ad69dc9e464f45f9",
+      "0x15db652875db5cb93b4f313ee228c2b744c1476446727ec828044c6aa34573bd",
+      "0x4748b362894f9e129a2640706c59e6171b4a6584ac012caf2c509ff80a63dea8"
+    ]
+  },
+  "0x2aa4ffed1f1825e5b51ca9b9c37f20a9ce2548b9": {
+    "snapshot": {
+      "total": "52614870942462453967892",
+      "balances": {
+        "delphi": "52614870942462453967892",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x228cbafdad06912c5d9769002484286e6e8eb3a325496469790e881950ce9ca7",
+      "0xd990967f38ec41a4abfaccfc47e95ed639491a44d71d98e66b031ba5fe0ccad1",
+      "0xc4ced6be1f6f101f3a916cff1fca396af8dce2f28483f07c28da946b79a24790",
+      "0xc211f68afdcd6076f91c72a390cd96a74a1121b2303b1995ca7c36143ff5520a",
+      "0xdc94f4fd5d2f6a9a33bdfe2c481b1364e57aea39ed833d59ad69dc9e464f45f9",
+      "0x15db652875db5cb93b4f313ee228c2b744c1476446727ec828044c6aa34573bd",
+      "0x4748b362894f9e129a2640706c59e6171b4a6584ac012caf2c509ff80a63dea8"
+    ]
+  },
+  "0xaef7c59de837249d696289a19dd0dc029dee0fcd": {
+    "snapshot": {
+      "total": "1718367985696741925494",
+      "balances": {
+        "delphi": "1718367985696741925494",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x8d4d62172d3a2b5ecb4055f72f5045650a5999c94568425077b3045772938c02",
+      "0xd990967f38ec41a4abfaccfc47e95ed639491a44d71d98e66b031ba5fe0ccad1",
+      "0xc4ced6be1f6f101f3a916cff1fca396af8dce2f28483f07c28da946b79a24790",
+      "0xc211f68afdcd6076f91c72a390cd96a74a1121b2303b1995ca7c36143ff5520a",
+      "0xdc94f4fd5d2f6a9a33bdfe2c481b1364e57aea39ed833d59ad69dc9e464f45f9",
+      "0x15db652875db5cb93b4f313ee228c2b744c1476446727ec828044c6aa34573bd",
+      "0x4748b362894f9e129a2640706c59e6171b4a6584ac012caf2c509ff80a63dea8"
+    ]
+  },
+  "0xb915f667de877748368e51656d3dfc8a8366de0c": {
+    "snapshot": {
+      "total": "47389009144970950728748",
+      "balances": {
+        "delphi": "47389009144970950728748",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0xeb15bbbd4e2bbddfe0c1fd6d90d10e18e03a9adc6a1f503474366a64b832d3ee",
+      "0x9600249fa963a9d2e4bcdb86ef692259274be6366ebb569e820aead7bebc3e6a",
+      "0xc4ced6be1f6f101f3a916cff1fca396af8dce2f28483f07c28da946b79a24790",
+      "0xc211f68afdcd6076f91c72a390cd96a74a1121b2303b1995ca7c36143ff5520a",
+      "0xdc94f4fd5d2f6a9a33bdfe2c481b1364e57aea39ed833d59ad69dc9e464f45f9",
+      "0x15db652875db5cb93b4f313ee228c2b744c1476446727ec828044c6aa34573bd",
+      "0x4748b362894f9e129a2640706c59e6171b4a6584ac012caf2c509ff80a63dea8"
+    ]
+  },
+  "0xd491c7cce5f44a1b4ab5e27cd6239e25010f21f8": {
+    "snapshot": {
+      "total": "191551972995645075570792",
+      "balances": {
+        "delphi": "191551972995645075570792",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0xc6e82e30921fb85f9bb5175837313745dfe90f992d49af37c18eb31ccbbb2763",
+      "0x9600249fa963a9d2e4bcdb86ef692259274be6366ebb569e820aead7bebc3e6a",
+      "0xc4ced6be1f6f101f3a916cff1fca396af8dce2f28483f07c28da946b79a24790",
+      "0xc211f68afdcd6076f91c72a390cd96a74a1121b2303b1995ca7c36143ff5520a",
+      "0xdc94f4fd5d2f6a9a33bdfe2c481b1364e57aea39ed833d59ad69dc9e464f45f9",
+      "0x15db652875db5cb93b4f313ee228c2b744c1476446727ec828044c6aa34573bd",
+      "0x4748b362894f9e129a2640706c59e6171b4a6584ac012caf2c509ff80a63dea8"
+    ]
+  },
+  "0xb95d022a940ace361abc435e6a71142e3a745fee": {
+    "snapshot": {
+      "total": "503613436970554062100",
+      "balances": {
+        "delphi": "503613436970554062100",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0xa4b83e0bc927afb3db1d7b00525e576bc67740fe0766d319ec5984c956eca96f",
+      "0xf2f11a434510357483e71cb1a002edad5728351b5fbc515d0633768d36b6a99c",
+      "0xd7bcb84dca0bfed6830baa011006b1c946fcfd5182968e7a48a8c3c3833b7f80",
+      "0xc211f68afdcd6076f91c72a390cd96a74a1121b2303b1995ca7c36143ff5520a",
+      "0xdc94f4fd5d2f6a9a33bdfe2c481b1364e57aea39ed833d59ad69dc9e464f45f9",
+      "0x15db652875db5cb93b4f313ee228c2b744c1476446727ec828044c6aa34573bd",
+      "0x4748b362894f9e129a2640706c59e6171b4a6584ac012caf2c509ff80a63dea8"
+    ]
+  },
+  "0x3b4b0d8853db68f290757e8d5de2e5c7893ddab0": {
+    "snapshot": {
+      "total": "321595710429004725484",
+      "balances": {
+        "delphi": "321595710429004725484",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x5686f607dd6026e146228fc3044c18323a5899f76198c03e1ff4775ecf742380",
+      "0xf2f11a434510357483e71cb1a002edad5728351b5fbc515d0633768d36b6a99c",
+      "0xd7bcb84dca0bfed6830baa011006b1c946fcfd5182968e7a48a8c3c3833b7f80",
+      "0xc211f68afdcd6076f91c72a390cd96a74a1121b2303b1995ca7c36143ff5520a",
+      "0xdc94f4fd5d2f6a9a33bdfe2c481b1364e57aea39ed833d59ad69dc9e464f45f9",
+      "0x15db652875db5cb93b4f313ee228c2b744c1476446727ec828044c6aa34573bd",
+      "0x4748b362894f9e129a2640706c59e6171b4a6584ac012caf2c509ff80a63dea8"
+    ]
+  },
+  "0xbc5e9df74ebab76f60c9b195c49c3bbe85efa338": {
+    "snapshot": {
+      "total": "15192547140443739408511",
+      "balances": {
+        "delphi": "15192547140443739408511",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0xebf2679323c8b10d9e7e1dd5e34421dd34de39b69a3dac5a8d510ac97d28ad02",
+      "0x4bb7c3d864c036ead3f33db411000c6c39fa71d93b4a789aba59a3af5e1cb9aa",
+      "0xd7bcb84dca0bfed6830baa011006b1c946fcfd5182968e7a48a8c3c3833b7f80",
+      "0xc211f68afdcd6076f91c72a390cd96a74a1121b2303b1995ca7c36143ff5520a",
+      "0xdc94f4fd5d2f6a9a33bdfe2c481b1364e57aea39ed833d59ad69dc9e464f45f9",
+      "0x15db652875db5cb93b4f313ee228c2b744c1476446727ec828044c6aa34573bd",
+      "0x4748b362894f9e129a2640706c59e6171b4a6584ac012caf2c509ff80a63dea8"
+    ]
+  },
+  "0xa051e8783c0884fae269bf552de4db92341610e4": {
+    "snapshot": {
+      "total": "291863530944686090152",
+      "balances": {
+        "delphi": "291863530944686090152",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x01fbaa4ab26db61fae51f32f33ee83b22536fcd88c9860b882b048693781b9e5",
+      "0x4bb7c3d864c036ead3f33db411000c6c39fa71d93b4a789aba59a3af5e1cb9aa",
+      "0xd7bcb84dca0bfed6830baa011006b1c946fcfd5182968e7a48a8c3c3833b7f80",
+      "0xc211f68afdcd6076f91c72a390cd96a74a1121b2303b1995ca7c36143ff5520a",
+      "0xdc94f4fd5d2f6a9a33bdfe2c481b1364e57aea39ed833d59ad69dc9e464f45f9",
+      "0x15db652875db5cb93b4f313ee228c2b744c1476446727ec828044c6aa34573bd",
+      "0x4748b362894f9e129a2640706c59e6171b4a6584ac012caf2c509ff80a63dea8"
+    ]
+  },
+  "0x04093890bc1f953edf4d03062e4926f12b374e33": {
+    "snapshot": {
+      "total": "275607432711387730251",
+      "balances": {
+        "delphi": "275607432711387730251",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x88f059a4613c377395a5bf483f393af85855866141d9777f5b74bb75d7b3c2b9",
+      "0x9f9fc04dcd3af6004c3a4e87dd514fc54b65040ef01d1c0274bb2cfbdb8a01ca",
+      "0x8f73bfe2d1fd1b94f604f150d4a1184c57a6be4d97c0989cef2fda2cd2bee47f",
+      "0xd426ab47b91a9c7018cc54bfa9340c46df2f892286f9426802bdfecca091fcf7",
+      "0x7426c51e9e61dd501f99c0f776440dd6423acd025ebdfdbf18e1ae7dc1702bcd",
+      "0x4d2d2f10c7ffdc4241f1eee951c37b16decfd43acc17cc499b30dd1c50fe355e",
+      "0x4748b362894f9e129a2640706c59e6171b4a6584ac012caf2c509ff80a63dea8"
+    ]
+  },
+  "0xab9424c3507be50d8d9b185e58e1bff47f1db642": {
+    "snapshot": {
+      "total": "184498598854892293275",
+      "balances": {
+        "delphi": "184498598854892293275",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x0d865fa90a7061557bf4db5e3833a7ff8a0b12331cac322af7aa574b65a8a1d1",
+      "0x9f9fc04dcd3af6004c3a4e87dd514fc54b65040ef01d1c0274bb2cfbdb8a01ca",
+      "0x8f73bfe2d1fd1b94f604f150d4a1184c57a6be4d97c0989cef2fda2cd2bee47f",
+      "0xd426ab47b91a9c7018cc54bfa9340c46df2f892286f9426802bdfecca091fcf7",
+      "0x7426c51e9e61dd501f99c0f776440dd6423acd025ebdfdbf18e1ae7dc1702bcd",
+      "0x4d2d2f10c7ffdc4241f1eee951c37b16decfd43acc17cc499b30dd1c50fe355e",
+      "0x4748b362894f9e129a2640706c59e6171b4a6584ac012caf2c509ff80a63dea8"
+    ]
+  },
+  "0x2032917a4bd302c73c0b237953f256d61711202f": {
+    "snapshot": {
+      "total": "10279142743403586791828",
+      "balances": {
+        "delphi": "10279142743403586791828",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0xf2a28a150be185f6bca9b15e6832841a1bc2ad77a544b1940f54678c5dfd7bd9",
+      "0x1370f1148b154e0769cbf084b2198d1069bd097ed8e2058d5e63fbb3a72d0b5e",
+      "0x8f73bfe2d1fd1b94f604f150d4a1184c57a6be4d97c0989cef2fda2cd2bee47f",
+      "0xd426ab47b91a9c7018cc54bfa9340c46df2f892286f9426802bdfecca091fcf7",
+      "0x7426c51e9e61dd501f99c0f776440dd6423acd025ebdfdbf18e1ae7dc1702bcd",
+      "0x4d2d2f10c7ffdc4241f1eee951c37b16decfd43acc17cc499b30dd1c50fe355e",
+      "0x4748b362894f9e129a2640706c59e6171b4a6584ac012caf2c509ff80a63dea8"
+    ]
+  },
+  "0xa96e5bff8d1340b32a61b78fe24a8bc5caeafcc6": {
+    "snapshot": {
+      "total": "16802433217406409938",
+      "balances": {
+        "delphi": "16802433217406409938",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0xd1c998ff02feec230423dc420da8f8541a83ef3cbd1bfee8b7b8130117b1a852",
+      "0x1370f1148b154e0769cbf084b2198d1069bd097ed8e2058d5e63fbb3a72d0b5e",
+      "0x8f73bfe2d1fd1b94f604f150d4a1184c57a6be4d97c0989cef2fda2cd2bee47f",
+      "0xd426ab47b91a9c7018cc54bfa9340c46df2f892286f9426802bdfecca091fcf7",
+      "0x7426c51e9e61dd501f99c0f776440dd6423acd025ebdfdbf18e1ae7dc1702bcd",
+      "0x4d2d2f10c7ffdc4241f1eee951c37b16decfd43acc17cc499b30dd1c50fe355e",
+      "0x4748b362894f9e129a2640706c59e6171b4a6584ac012caf2c509ff80a63dea8"
+    ]
+  },
+  "0x59fb9943470cdf3ce0842c2087df2500fc43fde2": {
+    "snapshot": {
+      "total": "71692044775935954704",
+      "balances": {
+        "delphi": "71692044775935954704",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x6db9cd687543edab1b77ba90be2a67b440f7e38a92a7cc0e6639bab74d1fb48d",
+      "0xc40093cfc5f994ec13509aaf21e36ea44985495479c84d2748eb9967c0f3a14a",
+      "0x2adc3e2e69b7e088f08bde970a33d5585e01dc55732e549796f75a7d0cd9d07e",
+      "0xd426ab47b91a9c7018cc54bfa9340c46df2f892286f9426802bdfecca091fcf7",
+      "0x7426c51e9e61dd501f99c0f776440dd6423acd025ebdfdbf18e1ae7dc1702bcd",
+      "0x4d2d2f10c7ffdc4241f1eee951c37b16decfd43acc17cc499b30dd1c50fe355e",
+      "0x4748b362894f9e129a2640706c59e6171b4a6584ac012caf2c509ff80a63dea8"
+    ]
+  },
+  "0x84f2a1e36404e45ae133dd9dc27eee0de542d5f0": {
+    "snapshot": {
+      "total": "250649982037169252180",
+      "balances": {
+        "delphi": "250649982037169252180",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0xe1eb66c8d046c050621ec8180698313f6ebd8fbe47d1c12ae4d38dfba8fa4d43",
+      "0xc40093cfc5f994ec13509aaf21e36ea44985495479c84d2748eb9967c0f3a14a",
+      "0x2adc3e2e69b7e088f08bde970a33d5585e01dc55732e549796f75a7d0cd9d07e",
+      "0xd426ab47b91a9c7018cc54bfa9340c46df2f892286f9426802bdfecca091fcf7",
+      "0x7426c51e9e61dd501f99c0f776440dd6423acd025ebdfdbf18e1ae7dc1702bcd",
+      "0x4d2d2f10c7ffdc4241f1eee951c37b16decfd43acc17cc499b30dd1c50fe355e",
+      "0x4748b362894f9e129a2640706c59e6171b4a6584ac012caf2c509ff80a63dea8"
+    ]
+  },
+  "0x83fad39a06be56f5feaa756ebb54f7a76e832aee": {
+    "snapshot": {
+      "total": "400754451224572449064",
+      "balances": {
+        "delphi": "400754451224572449064",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x533e88d724aa2af7f4987c7af70a69f6e2e6d4a74801b87159965b09d5327f03",
+      "0x08aea5cf9575af645bdacb32ae95d2ccde8e6ab26937d478d47a8c529d277d6d",
+      "0x2adc3e2e69b7e088f08bde970a33d5585e01dc55732e549796f75a7d0cd9d07e",
+      "0xd426ab47b91a9c7018cc54bfa9340c46df2f892286f9426802bdfecca091fcf7",
+      "0x7426c51e9e61dd501f99c0f776440dd6423acd025ebdfdbf18e1ae7dc1702bcd",
+      "0x4d2d2f10c7ffdc4241f1eee951c37b16decfd43acc17cc499b30dd1c50fe355e",
+      "0x4748b362894f9e129a2640706c59e6171b4a6584ac012caf2c509ff80a63dea8"
+    ]
+  },
+  "0xd0a2b889d42533caddbaa566488ec48e10f4468b": {
+    "snapshot": {
+      "total": "9944277008668068447150",
+      "balances": {
+        "delphi": "9944277008668068447150",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x7dbbf6f27479b3b5d1469739f6094aca442648c06bbb4070ce217a7a5a43aeb1",
+      "0x08aea5cf9575af645bdacb32ae95d2ccde8e6ab26937d478d47a8c529d277d6d",
+      "0x2adc3e2e69b7e088f08bde970a33d5585e01dc55732e549796f75a7d0cd9d07e",
+      "0xd426ab47b91a9c7018cc54bfa9340c46df2f892286f9426802bdfecca091fcf7",
+      "0x7426c51e9e61dd501f99c0f776440dd6423acd025ebdfdbf18e1ae7dc1702bcd",
+      "0x4d2d2f10c7ffdc4241f1eee951c37b16decfd43acc17cc499b30dd1c50fe355e",
+      "0x4748b362894f9e129a2640706c59e6171b4a6584ac012caf2c509ff80a63dea8"
+    ]
+  },
+  "0x5ab3282598354ce4bd9609088529f6a74af59c9d": {
+    "snapshot": {
+      "total": "2322023528758951215423",
+      "balances": {
+        "delphi": "2322023528758951215423",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x4bee63690fad8731d56507350754855e4e123447b321716959c1cc8b63208070",
+      "0x656bfb1e4883ce51e030903c817cb22ac1ac6dd7e68b5ac693955fca1d8b02f1",
+      "0x46376b69cc6e14f02c3ad764bb043b20049b0455731dcc97c229ab4b2d737f07",
+      "0x5df6b6b121cdb341c74021312811c79097d1599274b9c96b1d7aa83219dec59a",
+      "0x7426c51e9e61dd501f99c0f776440dd6423acd025ebdfdbf18e1ae7dc1702bcd",
+      "0x4d2d2f10c7ffdc4241f1eee951c37b16decfd43acc17cc499b30dd1c50fe355e",
+      "0x4748b362894f9e129a2640706c59e6171b4a6584ac012caf2c509ff80a63dea8"
+    ]
+  },
+  "0x416da2f0600725a2441dce99c25501c1b6f98879": {
+    "snapshot": {
+      "total": "107204397594234407620",
+      "balances": {
+        "delphi": "107204397594234407620",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0xb1d7c4260b4c31bba325202c413dd05dcf8853ebde47e3da296047517c49ba53",
+      "0x656bfb1e4883ce51e030903c817cb22ac1ac6dd7e68b5ac693955fca1d8b02f1",
+      "0x46376b69cc6e14f02c3ad764bb043b20049b0455731dcc97c229ab4b2d737f07",
+      "0x5df6b6b121cdb341c74021312811c79097d1599274b9c96b1d7aa83219dec59a",
+      "0x7426c51e9e61dd501f99c0f776440dd6423acd025ebdfdbf18e1ae7dc1702bcd",
+      "0x4d2d2f10c7ffdc4241f1eee951c37b16decfd43acc17cc499b30dd1c50fe355e",
+      "0x4748b362894f9e129a2640706c59e6171b4a6584ac012caf2c509ff80a63dea8"
+    ]
+  },
+  "0xbf0b4c2ad241b89bc820e1613a24019146956a0d": {
+    "snapshot": {
+      "total": "644505057915675479308",
+      "balances": {
+        "delphi": "644505057915675479308",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x0b57baeca9093d5f1f9e3e9787c44d78223e9363f4f3a55af404d25d7a06a09b",
+      "0xf6d559489f9d1d7e15f5d6e56e6014f4bd29938ecd899c2d742c3718de4648ff",
+      "0x46376b69cc6e14f02c3ad764bb043b20049b0455731dcc97c229ab4b2d737f07",
+      "0x5df6b6b121cdb341c74021312811c79097d1599274b9c96b1d7aa83219dec59a",
+      "0x7426c51e9e61dd501f99c0f776440dd6423acd025ebdfdbf18e1ae7dc1702bcd",
+      "0x4d2d2f10c7ffdc4241f1eee951c37b16decfd43acc17cc499b30dd1c50fe355e",
+      "0x4748b362894f9e129a2640706c59e6171b4a6584ac012caf2c509ff80a63dea8"
+    ]
+  },
+  "0x0c10bef6e25fd14ebc769632b65a7098caf28ff0": {
+    "snapshot": {
+      "total": "7128042460680071635",
+      "balances": {
+        "delphi": "7128042460680071635",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x502f545a80d3ea92124ea182869aec558b367c58437e53ed21dfcaabc01dfd82",
+      "0xf6d559489f9d1d7e15f5d6e56e6014f4bd29938ecd899c2d742c3718de4648ff",
+      "0x46376b69cc6e14f02c3ad764bb043b20049b0455731dcc97c229ab4b2d737f07",
+      "0x5df6b6b121cdb341c74021312811c79097d1599274b9c96b1d7aa83219dec59a",
+      "0x7426c51e9e61dd501f99c0f776440dd6423acd025ebdfdbf18e1ae7dc1702bcd",
+      "0x4d2d2f10c7ffdc4241f1eee951c37b16decfd43acc17cc499b30dd1c50fe355e",
+      "0x4748b362894f9e129a2640706c59e6171b4a6584ac012caf2c509ff80a63dea8"
+    ]
+  },
+  "0x176c1bed147b9860a8d162908be384983376ceef": {
+    "snapshot": {
+      "total": "652751637552775946460",
+      "balances": {
+        "delphi": "652751637552775946460",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0xcc51c6f9a67672f574a0b0b703bbd947fc45589d92bcf8e6cef8abf9a80ae04f",
+      "0x87820d0f29687ff2ae118dfa7fddf8c7dba1ae824aa2c6753b312559dffd91b1",
+      "0x954deb5357c549b3706700c8e9f2e092332afd1ec7c167429afddc7f597e6f10",
+      "0x5df6b6b121cdb341c74021312811c79097d1599274b9c96b1d7aa83219dec59a",
+      "0x7426c51e9e61dd501f99c0f776440dd6423acd025ebdfdbf18e1ae7dc1702bcd",
+      "0x4d2d2f10c7ffdc4241f1eee951c37b16decfd43acc17cc499b30dd1c50fe355e",
+      "0x4748b362894f9e129a2640706c59e6171b4a6584ac012caf2c509ff80a63dea8"
+    ]
+  },
+  "0xe66e7a743da47eeebd6363640f2a39cf19cfb33f": {
+    "snapshot": {
+      "total": "14514717953095430857502",
+      "balances": {
+        "delphi": "14514717953095430857502",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x4c6668ada9b86aefc0a2280c93e96c7d18ff52bb7376e0a65cfd737983c8ce2c",
+      "0x87820d0f29687ff2ae118dfa7fddf8c7dba1ae824aa2c6753b312559dffd91b1",
+      "0x954deb5357c549b3706700c8e9f2e092332afd1ec7c167429afddc7f597e6f10",
+      "0x5df6b6b121cdb341c74021312811c79097d1599274b9c96b1d7aa83219dec59a",
+      "0x7426c51e9e61dd501f99c0f776440dd6423acd025ebdfdbf18e1ae7dc1702bcd",
+      "0x4d2d2f10c7ffdc4241f1eee951c37b16decfd43acc17cc499b30dd1c50fe355e",
+      "0x4748b362894f9e129a2640706c59e6171b4a6584ac012caf2c509ff80a63dea8"
+    ]
+  },
+  "0xa102beba2d4fd2f8e5ba09ee6c21108a50e5773f": {
+    "snapshot": {
+      "total": "114450026188192865106",
+      "balances": {
+        "delphi": "114450026188192865106",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x1531b5a018722f73aacac73c2e6f13b673f3aaeab6b391bfc06c227e22c95001",
+      "0xd8816766e51be2a4279305a161b2128c5053bd1594d248c893ee06fdb18e4620",
+      "0x954deb5357c549b3706700c8e9f2e092332afd1ec7c167429afddc7f597e6f10",
+      "0x5df6b6b121cdb341c74021312811c79097d1599274b9c96b1d7aa83219dec59a",
+      "0x7426c51e9e61dd501f99c0f776440dd6423acd025ebdfdbf18e1ae7dc1702bcd",
+      "0x4d2d2f10c7ffdc4241f1eee951c37b16decfd43acc17cc499b30dd1c50fe355e",
+      "0x4748b362894f9e129a2640706c59e6171b4a6584ac012caf2c509ff80a63dea8"
+    ]
+  },
+  "0xb20b6b0d1883f6cfda3c74bbd2a430066d07a8e3": {
+    "snapshot": {
+      "total": "58676994300803507087",
+      "balances": {
+        "delphi": "58676994300803507087",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0xc92cc3af16f9ec787d143c15628efcdcf885a6b2873d8f187481151d4082b9aa",
+      "0xd8816766e51be2a4279305a161b2128c5053bd1594d248c893ee06fdb18e4620",
+      "0x954deb5357c549b3706700c8e9f2e092332afd1ec7c167429afddc7f597e6f10",
+      "0x5df6b6b121cdb341c74021312811c79097d1599274b9c96b1d7aa83219dec59a",
+      "0x7426c51e9e61dd501f99c0f776440dd6423acd025ebdfdbf18e1ae7dc1702bcd",
+      "0x4d2d2f10c7ffdc4241f1eee951c37b16decfd43acc17cc499b30dd1c50fe355e",
+      "0x4748b362894f9e129a2640706c59e6171b4a6584ac012caf2c509ff80a63dea8"
+    ]
+  },
+  "0x94ed315472c96b45763a7ca7991103972d94b8c4": {
+    "snapshot": {
+      "total": "105052716512025625661",
+      "balances": {
+        "delphi": "105052716512025625661",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0xc6c566ff7a2a63940561596eca02c7ea323a4bea239b07d840c1a59650271074",
+      "0xb3f45d5e4829b9b14771e3bf1a087bfbe996ba01160e5d56a8c8c42940bbbd65",
+      "0x95a037509fc239d8222c28e231634b5d8235311fb253ebbb199c3534527010a4",
+      "0xa23a77f4c9327ad68c10d39b1560b481fe1722dafcba6588c509cb37d529803d",
+      "0xb5a878e25d38a698d41912c42b5e0ca0476bc211ed7b243c4ae1b81813389029",
+      "0x4d2d2f10c7ffdc4241f1eee951c37b16decfd43acc17cc499b30dd1c50fe355e",
+      "0x4748b362894f9e129a2640706c59e6171b4a6584ac012caf2c509ff80a63dea8"
+    ]
+  },
+  "0x3d723958bb4b61701dbc6c80f09671767e248064": {
+    "snapshot": {
+      "total": "8429927833941868811962",
+      "balances": {
+        "delphi": "8429927833941868811962",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0xf47f6999c3d7f387d49e676e19937e2c7389b54d6effcff7bdfcd79b528dfa14",
+      "0xb3f45d5e4829b9b14771e3bf1a087bfbe996ba01160e5d56a8c8c42940bbbd65",
+      "0x95a037509fc239d8222c28e231634b5d8235311fb253ebbb199c3534527010a4",
+      "0xa23a77f4c9327ad68c10d39b1560b481fe1722dafcba6588c509cb37d529803d",
+      "0xb5a878e25d38a698d41912c42b5e0ca0476bc211ed7b243c4ae1b81813389029",
+      "0x4d2d2f10c7ffdc4241f1eee951c37b16decfd43acc17cc499b30dd1c50fe355e",
+      "0x4748b362894f9e129a2640706c59e6171b4a6584ac012caf2c509ff80a63dea8"
+    ]
+  },
+  "0x0bc261cf3c38134b5dae2793dbb64b96b6e03aae": {
+    "snapshot": {
+      "total": "62414353171154239419",
+      "balances": {
+        "delphi": "62414353171154239419",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0xbd1f82d0ffe0a3f5ab0e9b6bc7a2a38b02c2f6d4ff2d648acdc6d20a2d4e4581",
+      "0x8347702ffad0316fccebb51dd65a2e9c7f0f9164a2b8f0ad49c28894242f49a2",
+      "0x95a037509fc239d8222c28e231634b5d8235311fb253ebbb199c3534527010a4",
+      "0xa23a77f4c9327ad68c10d39b1560b481fe1722dafcba6588c509cb37d529803d",
+      "0xb5a878e25d38a698d41912c42b5e0ca0476bc211ed7b243c4ae1b81813389029",
+      "0x4d2d2f10c7ffdc4241f1eee951c37b16decfd43acc17cc499b30dd1c50fe355e",
+      "0x4748b362894f9e129a2640706c59e6171b4a6584ac012caf2c509ff80a63dea8"
+    ]
+  },
+  "0x5481484616fd5bcc97dd5bbb4f58daadf34d099d": {
+    "snapshot": {
+      "total": "11524258950999477946",
+      "balances": {
+        "delphi": "11524258950999477946",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x7bc666735488ff220a1d81058f4d9edacf8e3287620c5c9ee4b0ffee8c359288",
+      "0x8347702ffad0316fccebb51dd65a2e9c7f0f9164a2b8f0ad49c28894242f49a2",
+      "0x95a037509fc239d8222c28e231634b5d8235311fb253ebbb199c3534527010a4",
+      "0xa23a77f4c9327ad68c10d39b1560b481fe1722dafcba6588c509cb37d529803d",
+      "0xb5a878e25d38a698d41912c42b5e0ca0476bc211ed7b243c4ae1b81813389029",
+      "0x4d2d2f10c7ffdc4241f1eee951c37b16decfd43acc17cc499b30dd1c50fe355e",
+      "0x4748b362894f9e129a2640706c59e6171b4a6584ac012caf2c509ff80a63dea8"
+    ]
+  },
+  "0xd25373f00f5bd69db7941ffa32c046dee09db470": {
+    "snapshot": {
+      "total": "1348776175274685328986",
+      "balances": {
+        "delphi": "1348776175274685328986",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x524b800bc089bb57f1ff6d9d7312d34de79978d53eb9201f6e26ff905a954805",
+      "0x1f2472274f97e5f6624e143e0d1f800373b9c8f87ee6544daf7668dadac4c585",
+      "0xca25137479b1395f0d2218a184a26e0d0bfec8b2e9370363e354693e4ef10401",
+      "0xa23a77f4c9327ad68c10d39b1560b481fe1722dafcba6588c509cb37d529803d",
+      "0xb5a878e25d38a698d41912c42b5e0ca0476bc211ed7b243c4ae1b81813389029",
+      "0x4d2d2f10c7ffdc4241f1eee951c37b16decfd43acc17cc499b30dd1c50fe355e",
+      "0x4748b362894f9e129a2640706c59e6171b4a6584ac012caf2c509ff80a63dea8"
+    ]
+  },
+  "0x5656d7f1040268e4c8ef4a2ae715de2b52eb44c2": {
+    "snapshot": {
+      "total": "91207075695396810033",
+      "balances": {
+        "delphi": "91207075695396810033",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x0ef2ce96c73bcc92b464c0474008aa936e16f34dba6b9fe2167a6d38985eb4b9",
+      "0x1f2472274f97e5f6624e143e0d1f800373b9c8f87ee6544daf7668dadac4c585",
+      "0xca25137479b1395f0d2218a184a26e0d0bfec8b2e9370363e354693e4ef10401",
+      "0xa23a77f4c9327ad68c10d39b1560b481fe1722dafcba6588c509cb37d529803d",
+      "0xb5a878e25d38a698d41912c42b5e0ca0476bc211ed7b243c4ae1b81813389029",
+      "0x4d2d2f10c7ffdc4241f1eee951c37b16decfd43acc17cc499b30dd1c50fe355e",
+      "0x4748b362894f9e129a2640706c59e6171b4a6584ac012caf2c509ff80a63dea8"
+    ]
+  },
+  "0x4fcb4818afae21ac3b08c805586981441d688804": {
+    "snapshot": {
+      "total": "197312699748830965518",
+      "balances": {
+        "delphi": "197312699748830965518",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x775f021c5f7cbbbea5896cc00d220dcd466ef32f23ef6e4795a1c8a10299bf1d",
+      "0xd334134c33a4fc4c57e6fec2af7efddd3ff3cfe1e489bd8d4901c79769a2ca2c",
+      "0xca25137479b1395f0d2218a184a26e0d0bfec8b2e9370363e354693e4ef10401",
+      "0xa23a77f4c9327ad68c10d39b1560b481fe1722dafcba6588c509cb37d529803d",
+      "0xb5a878e25d38a698d41912c42b5e0ca0476bc211ed7b243c4ae1b81813389029",
+      "0x4d2d2f10c7ffdc4241f1eee951c37b16decfd43acc17cc499b30dd1c50fe355e",
+      "0x4748b362894f9e129a2640706c59e6171b4a6584ac012caf2c509ff80a63dea8"
+    ]
+  },
+  "0x92887907c1c6fc7f11616492232afe0eae94e2c6": {
+    "snapshot": {
+      "total": "17134307219766785835",
+      "balances": {
+        "delphi": "17134307219766785835",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0xbda7d925880cfb7933c2309f71855ed590215b53e5be2234b99758f9aee988de",
+      "0xd334134c33a4fc4c57e6fec2af7efddd3ff3cfe1e489bd8d4901c79769a2ca2c",
+      "0xca25137479b1395f0d2218a184a26e0d0bfec8b2e9370363e354693e4ef10401",
+      "0xa23a77f4c9327ad68c10d39b1560b481fe1722dafcba6588c509cb37d529803d",
+      "0xb5a878e25d38a698d41912c42b5e0ca0476bc211ed7b243c4ae1b81813389029",
+      "0x4d2d2f10c7ffdc4241f1eee951c37b16decfd43acc17cc499b30dd1c50fe355e",
+      "0x4748b362894f9e129a2640706c59e6171b4a6584ac012caf2c509ff80a63dea8"
+    ]
+  },
+  "0xd998beb47d09141ed6ce2f1d0c1e08dbd9a0ca70": {
+    "snapshot": {
+      "total": "24761546672310572603",
+      "balances": {
+        "delphi": "24761546672310572603",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0xf94abcb5bec62859c03a7874922ca8862ed9a119c7fe4cb5b81f57742731b5d1",
+      "0x83805eb5094ef006097fc62616cb3221bb884857ab1dafd6fb011b0864bf71c9",
+      "0xf3b782b0725d0b0b1059da9fcdfdfb789de8ebff499b89059faf811b3f54a33b",
+      "0xc236b07614f5c580419b2bd76bdbb16b651f7eaf8a25e1f79759c84bbd668fe5",
+      "0xb5a878e25d38a698d41912c42b5e0ca0476bc211ed7b243c4ae1b81813389029",
+      "0x4d2d2f10c7ffdc4241f1eee951c37b16decfd43acc17cc499b30dd1c50fe355e",
+      "0x4748b362894f9e129a2640706c59e6171b4a6584ac012caf2c509ff80a63dea8"
+    ]
+  },
+  "0xdd3f7b4373282a5d39ec9ccd95ab5540d9fd5100": {
+    "snapshot": {
+      "total": "16227892418247687800",
+      "balances": {
+        "delphi": "16227892418247687800",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x1e2100f8097bb766b29b744229e95ae4bfc3ce26b121fff5983c4c2b0ef5f537",
+      "0x83805eb5094ef006097fc62616cb3221bb884857ab1dafd6fb011b0864bf71c9",
+      "0xf3b782b0725d0b0b1059da9fcdfdfb789de8ebff499b89059faf811b3f54a33b",
+      "0xc236b07614f5c580419b2bd76bdbb16b651f7eaf8a25e1f79759c84bbd668fe5",
+      "0xb5a878e25d38a698d41912c42b5e0ca0476bc211ed7b243c4ae1b81813389029",
+      "0x4d2d2f10c7ffdc4241f1eee951c37b16decfd43acc17cc499b30dd1c50fe355e",
+      "0x4748b362894f9e129a2640706c59e6171b4a6584ac012caf2c509ff80a63dea8"
+    ]
+  },
+  "0x9434edb462bb33164f4b3026cabd46f3ed22b53b": {
+    "snapshot": {
+      "total": "18339140761039928407",
+      "balances": {
+        "delphi": "18339140761039928407",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x2e92e58c9e9131a57949b42f6221b8bcce848891047efa7d6d4257904a5d47d7",
+      "0x641d13324eb25ff163aae73f4f2f5cfc2a6131e98da7d18b44ff7248a7bf4076",
+      "0xf3b782b0725d0b0b1059da9fcdfdfb789de8ebff499b89059faf811b3f54a33b",
+      "0xc236b07614f5c580419b2bd76bdbb16b651f7eaf8a25e1f79759c84bbd668fe5",
+      "0xb5a878e25d38a698d41912c42b5e0ca0476bc211ed7b243c4ae1b81813389029",
+      "0x4d2d2f10c7ffdc4241f1eee951c37b16decfd43acc17cc499b30dd1c50fe355e",
+      "0x4748b362894f9e129a2640706c59e6171b4a6584ac012caf2c509ff80a63dea8"
+    ]
+  },
+  "0xea2901cf99fa2f634275cc5bb3933a57513968ad": {
+    "snapshot": {
+      "total": "4268700004786497629539",
+      "balances": {
+        "delphi": "4268700004786497629539",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0xcd017d9ec406fd15cbdb90a44d073d99a672e537eb236755040cffbfbdfa13a0",
+      "0x641d13324eb25ff163aae73f4f2f5cfc2a6131e98da7d18b44ff7248a7bf4076",
+      "0xf3b782b0725d0b0b1059da9fcdfdfb789de8ebff499b89059faf811b3f54a33b",
+      "0xc236b07614f5c580419b2bd76bdbb16b651f7eaf8a25e1f79759c84bbd668fe5",
+      "0xb5a878e25d38a698d41912c42b5e0ca0476bc211ed7b243c4ae1b81813389029",
+      "0x4d2d2f10c7ffdc4241f1eee951c37b16decfd43acc17cc499b30dd1c50fe355e",
+      "0x4748b362894f9e129a2640706c59e6171b4a6584ac012caf2c509ff80a63dea8"
+    ]
+  },
+  "0x0bb4d344c8f4018d1398d9b5e6c0282789642c84": {
+    "snapshot": {
+      "total": "44108100170232823700",
+      "balances": {
+        "delphi": "44108100170232823700",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x3ba569c435b7ba755aa1c831919c21aa2096b8d3acce847ccf3ac9a270440118",
+      "0xeead4357b5e61d2d0575c5efa8d28eb56bd9860ba1b9ba15b584836a628e4b55",
+      "0xa68872008658f2b5b25fa3a177458159f058ed5ffabf44bdfabc1961aa640713",
+      "0xc236b07614f5c580419b2bd76bdbb16b651f7eaf8a25e1f79759c84bbd668fe5",
+      "0xb5a878e25d38a698d41912c42b5e0ca0476bc211ed7b243c4ae1b81813389029",
+      "0x4d2d2f10c7ffdc4241f1eee951c37b16decfd43acc17cc499b30dd1c50fe355e",
+      "0x4748b362894f9e129a2640706c59e6171b4a6584ac012caf2c509ff80a63dea8"
+    ]
+  },
+  "0x23f4a5d9a505438d6d1da73e7d7d243ddc196ff4": {
+    "snapshot": {
+      "total": "17077082089377274343",
+      "balances": {
+        "delphi": "17077082089377274343",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x392caabba64f53592a5e130e46a96921f7aeece7a6e1a47095ac3ca9625534a8",
+      "0xeead4357b5e61d2d0575c5efa8d28eb56bd9860ba1b9ba15b584836a628e4b55",
+      "0xa68872008658f2b5b25fa3a177458159f058ed5ffabf44bdfabc1961aa640713",
+      "0xc236b07614f5c580419b2bd76bdbb16b651f7eaf8a25e1f79759c84bbd668fe5",
+      "0xb5a878e25d38a698d41912c42b5e0ca0476bc211ed7b243c4ae1b81813389029",
+      "0x4d2d2f10c7ffdc4241f1eee951c37b16decfd43acc17cc499b30dd1c50fe355e",
+      "0x4748b362894f9e129a2640706c59e6171b4a6584ac012caf2c509ff80a63dea8"
+    ]
+  },
+  "0x626e3f6b049804b80d384028bd65189c838d64e9": {
+    "snapshot": {
+      "total": "49085684712366933979",
+      "balances": {
+        "delphi": "49085684712366933979",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x5993ad356ca7ea4613df9ac5c8bf58196e693f881ddc21cc1cf3583f8f443240",
+      "0xafc7f4951ba9d845f4c0111dc326d039de04b278b133acd3a73c7775a8c18378",
+      "0xa68872008658f2b5b25fa3a177458159f058ed5ffabf44bdfabc1961aa640713",
+      "0xc236b07614f5c580419b2bd76bdbb16b651f7eaf8a25e1f79759c84bbd668fe5",
+      "0xb5a878e25d38a698d41912c42b5e0ca0476bc211ed7b243c4ae1b81813389029",
+      "0x4d2d2f10c7ffdc4241f1eee951c37b16decfd43acc17cc499b30dd1c50fe355e",
+      "0x4748b362894f9e129a2640706c59e6171b4a6584ac012caf2c509ff80a63dea8"
+    ]
+  },
+  "0x568631ccc1b8f6e13b0c7a7a099520f964907bdc": {
+    "snapshot": {
+      "total": "264023641585325322012",
+      "balances": {
+        "delphi": "264023641585325322012",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x648d2ed8c6d9cb6e883fe8f3227f880c8f134fa419f4d84e731c09d7629ab170",
+      "0xafc7f4951ba9d845f4c0111dc326d039de04b278b133acd3a73c7775a8c18378",
+      "0xa68872008658f2b5b25fa3a177458159f058ed5ffabf44bdfabc1961aa640713",
+      "0xc236b07614f5c580419b2bd76bdbb16b651f7eaf8a25e1f79759c84bbd668fe5",
+      "0xb5a878e25d38a698d41912c42b5e0ca0476bc211ed7b243c4ae1b81813389029",
+      "0x4d2d2f10c7ffdc4241f1eee951c37b16decfd43acc17cc499b30dd1c50fe355e",
+      "0x4748b362894f9e129a2640706c59e6171b4a6584ac012caf2c509ff80a63dea8"
+    ]
+  },
+  "0xc24bed939591f165749e9777ff1f888d6b1ef950": {
+    "snapshot": {
+      "total": "5519795921142750750",
+      "balances": {
+        "delphi": "5519795921142750750",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0xc59b6f0423ca35fe533fbf81b2247b8ebf53bde27b3a370600b8e8e0fd12eb6a",
+      "0x463b7cd15edc13382871d7acc2a37c062bd9910deee002294dee7830c12c4b73",
+      "0xd04d9af6180eeda25de2cc97749899c13a1e6a706f2a6cc02a6a1da655bbc0dc",
+      "0x6ddbd5b9ad12b95f0772d9555974353441bc3f650aabbb1669a423c9597825f9",
+      "0xc30df072bb78e46dee5d43d4c9ac2689935c214c3b449a574c79e5ccbebacf18",
+      "0x208c3b4b49a3ee8de8675df49178c74c8068fa5f07ee471a92b60314098383e3",
+      "0x83a163c2276bcce6ae725eefbfc0d0d3fee64d97eace6b7c9adf51fed236f515"
+    ]
+  },
+  "0xe2695490915a70f8b28b0a32d5712af86a684dfe": {
+    "snapshot": {
+      "total": "48324635849038372726",
+      "balances": {
+        "delphi": "48324635849038372726",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x77c84f7da29f9d9383e9132b935916b3d31455ddc1c4b87e196441dc51deba88",
+      "0x463b7cd15edc13382871d7acc2a37c062bd9910deee002294dee7830c12c4b73",
+      "0xd04d9af6180eeda25de2cc97749899c13a1e6a706f2a6cc02a6a1da655bbc0dc",
+      "0x6ddbd5b9ad12b95f0772d9555974353441bc3f650aabbb1669a423c9597825f9",
+      "0xc30df072bb78e46dee5d43d4c9ac2689935c214c3b449a574c79e5ccbebacf18",
+      "0x208c3b4b49a3ee8de8675df49178c74c8068fa5f07ee471a92b60314098383e3",
+      "0x83a163c2276bcce6ae725eefbfc0d0d3fee64d97eace6b7c9adf51fed236f515"
+    ]
+  },
+  "0x758cd9e7f6012ed8d0979935108c96e60a95a293": {
+    "snapshot": {
+      "total": "81323246922787632229",
+      "balances": {
+        "delphi": "81323246922787632229",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x8d6bdbe23b2901f8cfba862fd77da056c37f26756b46c3f1cd378f5d032fff23",
+      "0x4bb48bb0aa59a68207e8d846d575b6a32b04295a970e1d9f41528a8efb910a51",
+      "0xd04d9af6180eeda25de2cc97749899c13a1e6a706f2a6cc02a6a1da655bbc0dc",
+      "0x6ddbd5b9ad12b95f0772d9555974353441bc3f650aabbb1669a423c9597825f9",
+      "0xc30df072bb78e46dee5d43d4c9ac2689935c214c3b449a574c79e5ccbebacf18",
+      "0x208c3b4b49a3ee8de8675df49178c74c8068fa5f07ee471a92b60314098383e3",
+      "0x83a163c2276bcce6ae725eefbfc0d0d3fee64d97eace6b7c9adf51fed236f515"
+    ]
+  },
+  "0x99ca48e96b5a9883299ff1ee87b623fd9b262edb": {
+    "snapshot": {
+      "total": "160249447391229892901",
+      "balances": {
+        "delphi": "160249447391229892901",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0xb36cc5884f29c325f17dc439f89d0f77105c4768337f79f2a9e96c31ee3b5218",
+      "0x4bb48bb0aa59a68207e8d846d575b6a32b04295a970e1d9f41528a8efb910a51",
+      "0xd04d9af6180eeda25de2cc97749899c13a1e6a706f2a6cc02a6a1da655bbc0dc",
+      "0x6ddbd5b9ad12b95f0772d9555974353441bc3f650aabbb1669a423c9597825f9",
+      "0xc30df072bb78e46dee5d43d4c9ac2689935c214c3b449a574c79e5ccbebacf18",
+      "0x208c3b4b49a3ee8de8675df49178c74c8068fa5f07ee471a92b60314098383e3",
+      "0x83a163c2276bcce6ae725eefbfc0d0d3fee64d97eace6b7c9adf51fed236f515"
+    ]
+  },
+  "0x385beae0a3e744ce772bdc334a19de4b3b5d8f31": {
+    "snapshot": {
+      "total": "17129567435495086869",
+      "balances": {
+        "delphi": "17129567435495086869",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x7e71a810659fd2555b401345f72312daff3c13fbeb7b917a2de2bed88ada1911",
+      "0xad32bc200565adbb4d08466e2d0332a8ac484d7b654f419c5f8fedbd1a3cda6c",
+      "0x283f409853eda4835077f1f63e0bf8d92ddcbfc2331a2cf305f77fb5a507f7c7",
+      "0x6ddbd5b9ad12b95f0772d9555974353441bc3f650aabbb1669a423c9597825f9",
+      "0xc30df072bb78e46dee5d43d4c9ac2689935c214c3b449a574c79e5ccbebacf18",
+      "0x208c3b4b49a3ee8de8675df49178c74c8068fa5f07ee471a92b60314098383e3",
+      "0x83a163c2276bcce6ae725eefbfc0d0d3fee64d97eace6b7c9adf51fed236f515"
+    ]
+  },
+  "0xf5d65740108977498e14776f1d5e2c6ceffa2666": {
+    "snapshot": {
+      "total": "12615088171597829358",
+      "balances": {
+        "delphi": "12615088171597829358",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x77443b8b740c1c3c395aeba562d4c7bb7f6cd27bdaf063fe8c6f1f04edb67a23",
+      "0xad32bc200565adbb4d08466e2d0332a8ac484d7b654f419c5f8fedbd1a3cda6c",
+      "0x283f409853eda4835077f1f63e0bf8d92ddcbfc2331a2cf305f77fb5a507f7c7",
+      "0x6ddbd5b9ad12b95f0772d9555974353441bc3f650aabbb1669a423c9597825f9",
+      "0xc30df072bb78e46dee5d43d4c9ac2689935c214c3b449a574c79e5ccbebacf18",
+      "0x208c3b4b49a3ee8de8675df49178c74c8068fa5f07ee471a92b60314098383e3",
+      "0x83a163c2276bcce6ae725eefbfc0d0d3fee64d97eace6b7c9adf51fed236f515"
+    ]
+  },
+  "0xaed159abcefb00bfc4b6e7f9b2a1e5693b5fb8a5": {
+    "snapshot": {
+      "total": "47165477148792774642",
+      "balances": {
+        "delphi": "47165477148792774642",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x914d667b62d11b692aade2484f77c1ef72868256db6ebc321b4d6a3c5b044d4b",
+      "0x49670d3bad7123d92a9fbf9ce9bd41bd2ae73f341da222ebf071778b07f247ac",
+      "0x283f409853eda4835077f1f63e0bf8d92ddcbfc2331a2cf305f77fb5a507f7c7",
+      "0x6ddbd5b9ad12b95f0772d9555974353441bc3f650aabbb1669a423c9597825f9",
+      "0xc30df072bb78e46dee5d43d4c9ac2689935c214c3b449a574c79e5ccbebacf18",
+      "0x208c3b4b49a3ee8de8675df49178c74c8068fa5f07ee471a92b60314098383e3",
+      "0x83a163c2276bcce6ae725eefbfc0d0d3fee64d97eace6b7c9adf51fed236f515"
+    ]
+  },
+  "0xf9a38d6c452c6cbf1b3ccb0303b6e5cb8bff3ddd": {
+    "snapshot": {
+      "total": "4999861159201046235",
+      "balances": {
+        "delphi": "4999861159201046235",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0xeefa1c332f1ff52969dfd1498d83ba3f447bcd27f76ebdcefdd7204aab71e918",
+      "0x49670d3bad7123d92a9fbf9ce9bd41bd2ae73f341da222ebf071778b07f247ac",
+      "0x283f409853eda4835077f1f63e0bf8d92ddcbfc2331a2cf305f77fb5a507f7c7",
+      "0x6ddbd5b9ad12b95f0772d9555974353441bc3f650aabbb1669a423c9597825f9",
+      "0xc30df072bb78e46dee5d43d4c9ac2689935c214c3b449a574c79e5ccbebacf18",
+      "0x208c3b4b49a3ee8de8675df49178c74c8068fa5f07ee471a92b60314098383e3",
+      "0x83a163c2276bcce6ae725eefbfc0d0d3fee64d97eace6b7c9adf51fed236f515"
+    ]
+  },
+  "0x737ac90e79c0fe72edd8d14d36141518320bed8c": {
+    "snapshot": {
+      "total": "68731552798260875",
+      "balances": {
+        "delphi": "68731552798260875",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0xedf54d9a4e19a73f37c9927a3525461b135e239861bea86d5fb8e4d0176c6b5f",
+      "0x68883bf134a0a47817d7725218df4f98d79cbe1daf798c2e381a19dfcd888466",
+      "0xdd802fd7a86ea962eb327489a7531ccf0b1063f21e3de9c3afc4c78cd9e3d167",
+      "0x73d471cc772622e5fa935787e6d8f03a14e1d1928312dcc57da8d962da86eedf",
+      "0xc30df072bb78e46dee5d43d4c9ac2689935c214c3b449a574c79e5ccbebacf18",
+      "0x208c3b4b49a3ee8de8675df49178c74c8068fa5f07ee471a92b60314098383e3",
+      "0x83a163c2276bcce6ae725eefbfc0d0d3fee64d97eace6b7c9adf51fed236f515"
+    ]
+  },
+  "0x8eaeb1afe479b0c8a00dec48ccdddee9cdebd014": {
+    "snapshot": {
+      "total": "1711765998238750752",
+      "balances": {
+        "delphi": "1711765998238750752",
+        "dex": "0",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0xc1f9f83b0c428e0c6813e33c094c7c7f6ddedd5ab8e1723f030cad2737f35542",
+      "0x68883bf134a0a47817d7725218df4f98d79cbe1daf798c2e381a19dfcd888466",
+      "0xdd802fd7a86ea962eb327489a7531ccf0b1063f21e3de9c3afc4c78cd9e3d167",
+      "0x73d471cc772622e5fa935787e6d8f03a14e1d1928312dcc57da8d962da86eedf",
+      "0xc30df072bb78e46dee5d43d4c9ac2689935c214c3b449a574c79e5ccbebacf18",
+      "0x208c3b4b49a3ee8de8675df49178c74c8068fa5f07ee471a92b60314098383e3",
+      "0x83a163c2276bcce6ae725eefbfc0d0d3fee64d97eace6b7c9adf51fed236f515"
+    ]
+  },
+  "0xb481deb6b96236884ef49ee02b0ce28c6a8bdc40": {
+    "snapshot": {
+      "total": "2641447357335680862889",
+      "balances": {
+        "delphi": "0",
+        "dex": "2641447357335680862889",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x499df74f414ebaea32a2cb4992dde2821722fd2452e2bc136b0c2cafb025c6f8",
+      "0x4e2142a924c220e572440754f67dbbf57888951c7c81fa24f91349cdc03bf3c1",
+      "0xdd802fd7a86ea962eb327489a7531ccf0b1063f21e3de9c3afc4c78cd9e3d167",
+      "0x73d471cc772622e5fa935787e6d8f03a14e1d1928312dcc57da8d962da86eedf",
+      "0xc30df072bb78e46dee5d43d4c9ac2689935c214c3b449a574c79e5ccbebacf18",
+      "0x208c3b4b49a3ee8de8675df49178c74c8068fa5f07ee471a92b60314098383e3",
+      "0x83a163c2276bcce6ae725eefbfc0d0d3fee64d97eace6b7c9adf51fed236f515"
+    ]
+  },
+  "0xe8f6e3752e8619b4623b1cd0123c0bc39845f062": {
+    "snapshot": {
+      "total": "867057484951247488425",
+      "balances": {
+        "delphi": "0",
+        "dex": "867057484951247488425",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x8ddd3ff8142a6a01b57c99531ae2c24a4ce421854b55f263b7b9ef81443fc20f",
+      "0x4e2142a924c220e572440754f67dbbf57888951c7c81fa24f91349cdc03bf3c1",
+      "0xdd802fd7a86ea962eb327489a7531ccf0b1063f21e3de9c3afc4c78cd9e3d167",
+      "0x73d471cc772622e5fa935787e6d8f03a14e1d1928312dcc57da8d962da86eedf",
+      "0xc30df072bb78e46dee5d43d4c9ac2689935c214c3b449a574c79e5ccbebacf18",
+      "0x208c3b4b49a3ee8de8675df49178c74c8068fa5f07ee471a92b60314098383e3",
+      "0x83a163c2276bcce6ae725eefbfc0d0d3fee64d97eace6b7c9adf51fed236f515"
+    ]
+  },
+  "0x84767dc6fbdc0c007b09f4a0c4ba00b897094695": {
+    "snapshot": {
+      "total": "1767077516142856438819",
+      "balances": {
+        "delphi": "0",
+        "dex": "1767077516142856438819",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x054276e6161054e62d754d4b8fb5ce673fc0f7dfd9f45a08c46f359a77dffc93",
+      "0x0bd73b48d372546bb9f8f869ca385708da3277ad1cdcafb9f7b14333d19343b5",
+      "0x8823112311dd10859d83463918b92e555f1ef92f5e9241ea9303e2beed62280f",
+      "0x73d471cc772622e5fa935787e6d8f03a14e1d1928312dcc57da8d962da86eedf",
+      "0xc30df072bb78e46dee5d43d4c9ac2689935c214c3b449a574c79e5ccbebacf18",
+      "0x208c3b4b49a3ee8de8675df49178c74c8068fa5f07ee471a92b60314098383e3",
+      "0x83a163c2276bcce6ae725eefbfc0d0d3fee64d97eace6b7c9adf51fed236f515"
+    ]
+  },
+  "0x3d99d05951ea06181864af64a53f78a5ee3f1796": {
+    "snapshot": {
+      "total": "8708437919681713538012",
+      "balances": {
+        "delphi": "0",
+        "dex": "8708437919681713538012",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0xb164a327f8faa90ffe7821fb3fb83a761f193037f9c7595e219d19f18c378437",
+      "0x0bd73b48d372546bb9f8f869ca385708da3277ad1cdcafb9f7b14333d19343b5",
+      "0x8823112311dd10859d83463918b92e555f1ef92f5e9241ea9303e2beed62280f",
+      "0x73d471cc772622e5fa935787e6d8f03a14e1d1928312dcc57da8d962da86eedf",
+      "0xc30df072bb78e46dee5d43d4c9ac2689935c214c3b449a574c79e5ccbebacf18",
+      "0x208c3b4b49a3ee8de8675df49178c74c8068fa5f07ee471a92b60314098383e3",
+      "0x83a163c2276bcce6ae725eefbfc0d0d3fee64d97eace6b7c9adf51fed236f515"
+    ]
+  },
+  "0x1419dc47f01dfc24063f1376bba0b3a9cc662932": {
+    "snapshot": {
+      "total": "381004717692362078196",
+      "balances": {
+        "delphi": "0",
+        "dex": "381004717692362078196",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0xe456bc0eed91358201b31b016491957769ca5f3686928071d864b9ce70e599a6",
+      "0xd2d91eee00780e694a500cb56f34ed865b8706edaada40bcdac14e7ccc67ac81",
+      "0x8823112311dd10859d83463918b92e555f1ef92f5e9241ea9303e2beed62280f",
+      "0x73d471cc772622e5fa935787e6d8f03a14e1d1928312dcc57da8d962da86eedf",
+      "0xc30df072bb78e46dee5d43d4c9ac2689935c214c3b449a574c79e5ccbebacf18",
+      "0x208c3b4b49a3ee8de8675df49178c74c8068fa5f07ee471a92b60314098383e3",
+      "0x83a163c2276bcce6ae725eefbfc0d0d3fee64d97eace6b7c9adf51fed236f515"
+    ]
+  },
+  "0x017cf1489eb1ff78ef8797dfc09662c845e187b9": {
+    "snapshot": {
+      "total": "1818989",
+      "balances": {
+        "delphi": "0",
+        "dex": "1818989",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x679140d59e279a4df8510e027291b3f3beb19f084cc8ce88a81958bc61ba520f",
+      "0xd2d91eee00780e694a500cb56f34ed865b8706edaada40bcdac14e7ccc67ac81",
+      "0x8823112311dd10859d83463918b92e555f1ef92f5e9241ea9303e2beed62280f",
+      "0x73d471cc772622e5fa935787e6d8f03a14e1d1928312dcc57da8d962da86eedf",
+      "0xc30df072bb78e46dee5d43d4c9ac2689935c214c3b449a574c79e5ccbebacf18",
+      "0x208c3b4b49a3ee8de8675df49178c74c8068fa5f07ee471a92b60314098383e3",
+      "0x83a163c2276bcce6ae725eefbfc0d0d3fee64d97eace6b7c9adf51fed236f515"
+    ]
+  },
+  "0x5cc7148770472b0b79bcb4de5857ca38f8f71d88": {
+    "snapshot": {
+      "total": "3637979",
+      "balances": {
+        "delphi": "0",
+        "dex": "3637979",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x5ba7e20536a2b9711eb0da2ea0371522fec247d8d50cd8a7bb46976b96884c49",
+      "0x23555e0781d7edcb3c1e9c0d516684c62adac93e90c4b1123ce7c2c653d5e770",
+      "0xe64baeb28c6badc69dced10da68db95aea449ed6a04d5d2e49294366d598b29e",
+      "0x10823543af167402476408df4f8418b73f3f6ab08e627e07f09a0f9adabfc95f",
+      "0x996f3aeac6aed91fa2b8e1e24f4999d2bee1cd331738f385d50abf5eee60b511",
+      "0x208c3b4b49a3ee8de8675df49178c74c8068fa5f07ee471a92b60314098383e3",
+      "0x83a163c2276bcce6ae725eefbfc0d0d3fee64d97eace6b7c9adf51fed236f515"
+    ]
+  },
+  "0xee3187f47120723c5583a13279f9da8224fb69ff": {
+    "snapshot": {
+      "total": "3826311068174230967998",
+      "balances": {
+        "delphi": "0",
+        "dex": "3826311068174230967998",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x2153eb147f29f5e85411ba4ec47fea846440c0f7d14a92a7a22a11d7e69dde87",
+      "0x23555e0781d7edcb3c1e9c0d516684c62adac93e90c4b1123ce7c2c653d5e770",
+      "0xe64baeb28c6badc69dced10da68db95aea449ed6a04d5d2e49294366d598b29e",
+      "0x10823543af167402476408df4f8418b73f3f6ab08e627e07f09a0f9adabfc95f",
+      "0x996f3aeac6aed91fa2b8e1e24f4999d2bee1cd331738f385d50abf5eee60b511",
+      "0x208c3b4b49a3ee8de8675df49178c74c8068fa5f07ee471a92b60314098383e3",
+      "0x83a163c2276bcce6ae725eefbfc0d0d3fee64d97eace6b7c9adf51fed236f515"
+    ]
+  },
+  "0xc26f818fed7450505935d22a5e55eac26e6ef41b": {
+    "snapshot": {
+      "total": "7773369002733186789555",
+      "balances": {
+        "delphi": "0",
+        "dex": "7773369002733186789555",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0xb881aa3d6805ced3615f16b6b8445927db07801f36ce23ad9645bc055d43194c",
+      "0xa3a0248145e8549c3802b45e6718e2224e56fff0ede9fac02969bc550c8ad8c6",
+      "0xe64baeb28c6badc69dced10da68db95aea449ed6a04d5d2e49294366d598b29e",
+      "0x10823543af167402476408df4f8418b73f3f6ab08e627e07f09a0f9adabfc95f",
+      "0x996f3aeac6aed91fa2b8e1e24f4999d2bee1cd331738f385d50abf5eee60b511",
+      "0x208c3b4b49a3ee8de8675df49178c74c8068fa5f07ee471a92b60314098383e3",
+      "0x83a163c2276bcce6ae725eefbfc0d0d3fee64d97eace6b7c9adf51fed236f515"
+    ]
+  },
+  "0xaa04dcf29700c9498fab932b072c9cc1ea5047d5": {
+    "snapshot": {
+      "total": "281025928606761344",
+      "balances": {
+        "delphi": "0",
+        "dex": "281025928606761344",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x794535d43faacbc451629044bc4df6dbb206f96c2ccda6d66bbc0d08b0ddf92e",
+      "0xa3a0248145e8549c3802b45e6718e2224e56fff0ede9fac02969bc550c8ad8c6",
+      "0xe64baeb28c6badc69dced10da68db95aea449ed6a04d5d2e49294366d598b29e",
+      "0x10823543af167402476408df4f8418b73f3f6ab08e627e07f09a0f9adabfc95f",
+      "0x996f3aeac6aed91fa2b8e1e24f4999d2bee1cd331738f385d50abf5eee60b511",
+      "0x208c3b4b49a3ee8de8675df49178c74c8068fa5f07ee471a92b60314098383e3",
+      "0x83a163c2276bcce6ae725eefbfc0d0d3fee64d97eace6b7c9adf51fed236f515"
+    ]
+  },
+  "0xc02fadedc679cec2889bbaf8997caa1a7e06231e": {
+    "snapshot": {
+      "total": "107052140449832106241956",
+      "balances": {
+        "delphi": "0",
+        "dex": "107052140449832106241956",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x53cba59eefe7b0d4e86998a1242290c6475a8a094c3739a28f8e8182e859ad0d",
+      "0x78a3bd40c489941e95e2f00fefbdf506843be2925345fc9b4d17399e409a2482",
+      "0x797116146e7ceb3c73ea71beb9f6e2d428118b31405029390d536a58bf7f616e",
+      "0x10823543af167402476408df4f8418b73f3f6ab08e627e07f09a0f9adabfc95f",
+      "0x996f3aeac6aed91fa2b8e1e24f4999d2bee1cd331738f385d50abf5eee60b511",
+      "0x208c3b4b49a3ee8de8675df49178c74c8068fa5f07ee471a92b60314098383e3",
+      "0x83a163c2276bcce6ae725eefbfc0d0d3fee64d97eace6b7c9adf51fed236f515"
+    ]
+  },
+  "0x96eb999c0b102bf0c15464dad43081c1167790a9": {
+    "snapshot": {
+      "total": "7089918437172693302273",
+      "balances": {
+        "delphi": "0",
+        "dex": "7089918437172693302273",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x7df953ec82a82073122e1e2c1e2c2be1aa01edda5cbf478e77f635f26659ab1d",
+      "0x78a3bd40c489941e95e2f00fefbdf506843be2925345fc9b4d17399e409a2482",
+      "0x797116146e7ceb3c73ea71beb9f6e2d428118b31405029390d536a58bf7f616e",
+      "0x10823543af167402476408df4f8418b73f3f6ab08e627e07f09a0f9adabfc95f",
+      "0x996f3aeac6aed91fa2b8e1e24f4999d2bee1cd331738f385d50abf5eee60b511",
+      "0x208c3b4b49a3ee8de8675df49178c74c8068fa5f07ee471a92b60314098383e3",
+      "0x83a163c2276bcce6ae725eefbfc0d0d3fee64d97eace6b7c9adf51fed236f515"
+    ]
+  },
+  "0x174d123ce1ef00eebf1026fbf061a7a58a928def": {
+    "snapshot": {
+      "total": "2367318548428816029627",
+      "balances": {
+        "delphi": "0",
+        "dex": "2367318548428816029627",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0xaa6e31c759a7f5ee28b2a6a6c59304d65c4ff59202bec6bddda543b1eae59d55",
+      "0xc7460b4036454d43dab34ad0584b451d1f0e02914048585669d561c46863a9f2",
+      "0x797116146e7ceb3c73ea71beb9f6e2d428118b31405029390d536a58bf7f616e",
+      "0x10823543af167402476408df4f8418b73f3f6ab08e627e07f09a0f9adabfc95f",
+      "0x996f3aeac6aed91fa2b8e1e24f4999d2bee1cd331738f385d50abf5eee60b511",
+      "0x208c3b4b49a3ee8de8675df49178c74c8068fa5f07ee471a92b60314098383e3",
+      "0x83a163c2276bcce6ae725eefbfc0d0d3fee64d97eace6b7c9adf51fed236f515"
+    ]
+  },
+  "0x1eb5115acb95487b6a1bd7c894ff3c7c886ba06a": {
+    "snapshot": {
+      "total": "12607150660580398835009",
+      "balances": {
+        "delphi": "0",
+        "dex": "12607150660580398835009",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x3fd584f00fb57420098edcf08e6efd6a9a18babb3acd2d699fe0a0dd575b455c",
+      "0xc7460b4036454d43dab34ad0584b451d1f0e02914048585669d561c46863a9f2",
+      "0x797116146e7ceb3c73ea71beb9f6e2d428118b31405029390d536a58bf7f616e",
+      "0x10823543af167402476408df4f8418b73f3f6ab08e627e07f09a0f9adabfc95f",
+      "0x996f3aeac6aed91fa2b8e1e24f4999d2bee1cd331738f385d50abf5eee60b511",
+      "0x208c3b4b49a3ee8de8675df49178c74c8068fa5f07ee471a92b60314098383e3",
+      "0x83a163c2276bcce6ae725eefbfc0d0d3fee64d97eace6b7c9adf51fed236f515"
+    ]
+  },
+  "0xd3833e511529f3298f2f4985c184d5c34a98fa59": {
+    "snapshot": {
+      "total": "2302010652736953488784",
+      "balances": {
+        "delphi": "0",
+        "dex": "2302010652736953488784",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0xfb6185edb55e8400b44952d7637fb4cdc23f9d606f6125e859fd5eb1043fcae7",
+      "0x3c8b19846ae98ad62178ace30c74359a963572d2b0f72816bb86b92a2938ace5",
+      "0xa27388114c6f496aa32c0d5684ae1c73149bbfea57417eb0fdb241988797d2b1",
+      "0x8e45aff4314190c105be4f76eee490b1f7af71c501d54fbae26513ab68d6c99a",
+      "0x996f3aeac6aed91fa2b8e1e24f4999d2bee1cd331738f385d50abf5eee60b511",
+      "0x208c3b4b49a3ee8de8675df49178c74c8068fa5f07ee471a92b60314098383e3",
+      "0x83a163c2276bcce6ae725eefbfc0d0d3fee64d97eace6b7c9adf51fed236f515"
+    ]
+  },
+  "0x0e70fd4ea2a0063396fed52a999d64f661774be2": {
+    "snapshot": {
+      "total": "30369228029243269702420",
+      "balances": {
+        "delphi": "0",
+        "dex": "30369228029243269702420",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x53b8e6853fac063e774aeb453429362f97629e4bfe5bd2a6681f2084548261b0",
+      "0x3c8b19846ae98ad62178ace30c74359a963572d2b0f72816bb86b92a2938ace5",
+      "0xa27388114c6f496aa32c0d5684ae1c73149bbfea57417eb0fdb241988797d2b1",
+      "0x8e45aff4314190c105be4f76eee490b1f7af71c501d54fbae26513ab68d6c99a",
+      "0x996f3aeac6aed91fa2b8e1e24f4999d2bee1cd331738f385d50abf5eee60b511",
+      "0x208c3b4b49a3ee8de8675df49178c74c8068fa5f07ee471a92b60314098383e3",
+      "0x83a163c2276bcce6ae725eefbfc0d0d3fee64d97eace6b7c9adf51fed236f515"
+    ]
+  },
+  "0xb824f9e5188be6c3ba5ae65234ff28c56f78ada1": {
+    "snapshot": {
+      "total": "2355876693110047199298",
+      "balances": {
+        "delphi": "0",
+        "dex": "2355876693110047199298",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0xd3e27aaee2051fd2fe02f5ebb0f187e48d7bc455bf49cc8ffc1041a546bf204d",
+      "0x41862921c7e09ead926eaa48efe72efc7c28972912d0fdffc78dfba3f99612e3",
+      "0xa27388114c6f496aa32c0d5684ae1c73149bbfea57417eb0fdb241988797d2b1",
+      "0x8e45aff4314190c105be4f76eee490b1f7af71c501d54fbae26513ab68d6c99a",
+      "0x996f3aeac6aed91fa2b8e1e24f4999d2bee1cd331738f385d50abf5eee60b511",
+      "0x208c3b4b49a3ee8de8675df49178c74c8068fa5f07ee471a92b60314098383e3",
+      "0x83a163c2276bcce6ae725eefbfc0d0d3fee64d97eace6b7c9adf51fed236f515"
+    ]
+  },
+  "0x200036059f03222aec9bbea8a226a8daf3e1958f": {
+    "snapshot": {
+      "total": "8161285810629240586422",
+      "balances": {
+        "delphi": "0",
+        "dex": "8161285810629240586422",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0xb23f7a44d4aafb2ed977799d48685eba09803ecbf7300b4f6f5b60cf45341981",
+      "0x41862921c7e09ead926eaa48efe72efc7c28972912d0fdffc78dfba3f99612e3",
+      "0xa27388114c6f496aa32c0d5684ae1c73149bbfea57417eb0fdb241988797d2b1",
+      "0x8e45aff4314190c105be4f76eee490b1f7af71c501d54fbae26513ab68d6c99a",
+      "0x996f3aeac6aed91fa2b8e1e24f4999d2bee1cd331738f385d50abf5eee60b511",
+      "0x208c3b4b49a3ee8de8675df49178c74c8068fa5f07ee471a92b60314098383e3",
+      "0x83a163c2276bcce6ae725eefbfc0d0d3fee64d97eace6b7c9adf51fed236f515"
+    ]
+  },
+  "0x3d843954e7506b1c237e5ddb8dbcd7017816bbb8": {
+    "snapshot": {
+      "total": "10878509879887620627414",
+      "balances": {
+        "delphi": "0",
+        "dex": "10878509879887620627414",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x4355d6668254f15c3597d79a479ec82f32f18ef24b2f89032d048478cc16a578",
+      "0xbc3b49bb1b6faad072403a87512060de0f5fc0636c2d8c6eac321fd4ab80c2aa",
+      "0x473d023b4a0e4204f6c1960ae0d97ab3769640854aca36691a7672e6467e6cb7",
+      "0x8e45aff4314190c105be4f76eee490b1f7af71c501d54fbae26513ab68d6c99a",
+      "0x996f3aeac6aed91fa2b8e1e24f4999d2bee1cd331738f385d50abf5eee60b511",
+      "0x208c3b4b49a3ee8de8675df49178c74c8068fa5f07ee471a92b60314098383e3",
+      "0x83a163c2276bcce6ae725eefbfc0d0d3fee64d97eace6b7c9adf51fed236f515"
+    ]
+  },
+  "0x18f8f927a9a4241e3b4f74dfc5303b4bc0801cc7": {
+    "snapshot": {
+      "total": "5671797842357705122",
+      "balances": {
+        "delphi": "0",
+        "dex": "5671797842357705122",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x14b02f608850b5d8f0e0d37207d022ca491b40c1cbf7bf7b731ea89dbbf84adb",
+      "0xbc3b49bb1b6faad072403a87512060de0f5fc0636c2d8c6eac321fd4ab80c2aa",
+      "0x473d023b4a0e4204f6c1960ae0d97ab3769640854aca36691a7672e6467e6cb7",
+      "0x8e45aff4314190c105be4f76eee490b1f7af71c501d54fbae26513ab68d6c99a",
+      "0x996f3aeac6aed91fa2b8e1e24f4999d2bee1cd331738f385d50abf5eee60b511",
+      "0x208c3b4b49a3ee8de8675df49178c74c8068fa5f07ee471a92b60314098383e3",
+      "0x83a163c2276bcce6ae725eefbfc0d0d3fee64d97eace6b7c9adf51fed236f515"
+    ]
+  },
+  "0xdcfdccb20cef4b7c1bb485c4d8a5c162d26aabb1": {
+    "snapshot": {
+      "total": "1143182932397136937652",
+      "balances": {
+        "delphi": "0",
+        "dex": "1143182932397136937652",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x0e02db5ed3dd77da22c6d5fd18ec6ef46e93f76e6e5c27d1c4145046682bed13",
+      "0xe502c95691d4375eb38980d203543cbbf7a804048560c62c18b33cef09f9b98c",
+      "0x473d023b4a0e4204f6c1960ae0d97ab3769640854aca36691a7672e6467e6cb7",
+      "0x8e45aff4314190c105be4f76eee490b1f7af71c501d54fbae26513ab68d6c99a",
+      "0x996f3aeac6aed91fa2b8e1e24f4999d2bee1cd331738f385d50abf5eee60b511",
+      "0x208c3b4b49a3ee8de8675df49178c74c8068fa5f07ee471a92b60314098383e3",
+      "0x83a163c2276bcce6ae725eefbfc0d0d3fee64d97eace6b7c9adf51fed236f515"
+    ]
+  },
+  "0x9883a8b0f58b662d60847db992e66591e2ede106": {
+    "snapshot": {
+      "total": "1034919514260400630",
+      "balances": {
+        "delphi": "0",
+        "dex": "1034919514260400630",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0xa0ef8f6675647b9ce67bb6dd67076e987b652279909d33f14d7c7b530b5757f4",
+      "0xe502c95691d4375eb38980d203543cbbf7a804048560c62c18b33cef09f9b98c",
+      "0x473d023b4a0e4204f6c1960ae0d97ab3769640854aca36691a7672e6467e6cb7",
+      "0x8e45aff4314190c105be4f76eee490b1f7af71c501d54fbae26513ab68d6c99a",
+      "0x996f3aeac6aed91fa2b8e1e24f4999d2bee1cd331738f385d50abf5eee60b511",
+      "0x208c3b4b49a3ee8de8675df49178c74c8068fa5f07ee471a92b60314098383e3",
+      "0x83a163c2276bcce6ae725eefbfc0d0d3fee64d97eace6b7c9adf51fed236f515"
+    ]
+  },
+  "0xbc57d9de63c4c332d75fc37096692818fdce7a67": {
+    "snapshot": {
+      "total": "19852584037632709624",
+      "balances": {
+        "delphi": "0",
+        "dex": "19852584037632709624",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x88575f51e3a9a7701e87c0c28d669cd55399e2094fe71b57a1c0c554aa5d0455",
+      "0xd3805798a0d216b6067b686c50d0b505930f50826ea34514abf1be101e6dbf00",
+      "0x43073ccf36d70a5828d6fb27838511a0a72fd96df5966a05331505d78f9bd13f",
+      "0x01eb3d8f4cbc72c042e7581808b75a24419f22ebd0915dc4710011b87fe07a04",
+      "0x383a9e57b23efe23f6b1025039af6ebca8521b228487772578028ba09e40702e",
+      "0x1cdc9f4a1cee354ceda0ad9243acfb80a962d3e842bfecd91e120e2db6ceb5e1",
+      "0x83a163c2276bcce6ae725eefbfc0d0d3fee64d97eace6b7c9adf51fed236f515"
+    ]
+  },
+  "0xb94fcca579a46fd7d49509e1614711e9b0320dc3": {
+    "snapshot": {
+      "total": "19584708974956720339833",
+      "balances": {
+        "delphi": "0",
+        "dex": "19584708974956720339833",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0xb049e5432ce3bd7577033678ffbe10c1964f9d89e912c67093647f0ac510fadd",
+      "0xd3805798a0d216b6067b686c50d0b505930f50826ea34514abf1be101e6dbf00",
+      "0x43073ccf36d70a5828d6fb27838511a0a72fd96df5966a05331505d78f9bd13f",
+      "0x01eb3d8f4cbc72c042e7581808b75a24419f22ebd0915dc4710011b87fe07a04",
+      "0x383a9e57b23efe23f6b1025039af6ebca8521b228487772578028ba09e40702e",
+      "0x1cdc9f4a1cee354ceda0ad9243acfb80a962d3e842bfecd91e120e2db6ceb5e1",
+      "0x83a163c2276bcce6ae725eefbfc0d0d3fee64d97eace6b7c9adf51fed236f515"
+    ]
+  },
+  "0xcde850e02a5d1ebedb5e1d2b177af8770354fdb7": {
+    "snapshot": {
+      "total": "275041490502278350050",
+      "balances": {
+        "delphi": "0",
+        "dex": "275041490502278350050",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x91b85c8cc36e00dc8e2ed89a9c8c510c90111393e5320da05be4d827d3d55211",
+      "0x2eba0d1d153ea3a3cd673df65f35e7b4f0f43cf40cf2395280cac4b5cd31bf67",
+      "0x43073ccf36d70a5828d6fb27838511a0a72fd96df5966a05331505d78f9bd13f",
+      "0x01eb3d8f4cbc72c042e7581808b75a24419f22ebd0915dc4710011b87fe07a04",
+      "0x383a9e57b23efe23f6b1025039af6ebca8521b228487772578028ba09e40702e",
+      "0x1cdc9f4a1cee354ceda0ad9243acfb80a962d3e842bfecd91e120e2db6ceb5e1",
+      "0x83a163c2276bcce6ae725eefbfc0d0d3fee64d97eace6b7c9adf51fed236f515"
+    ]
+  },
+  "0x2595b91faefe229b8e5420311d63a3d1c98448f9": {
+    "snapshot": {
+      "total": "934266989322906511006",
+      "balances": {
+        "delphi": "0",
+        "dex": "934266989322906511006",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0xb297f6d00f23b25bd7110003879843d8159d73307f9c15f656ca55a980827e12",
+      "0x2eba0d1d153ea3a3cd673df65f35e7b4f0f43cf40cf2395280cac4b5cd31bf67",
+      "0x43073ccf36d70a5828d6fb27838511a0a72fd96df5966a05331505d78f9bd13f",
+      "0x01eb3d8f4cbc72c042e7581808b75a24419f22ebd0915dc4710011b87fe07a04",
+      "0x383a9e57b23efe23f6b1025039af6ebca8521b228487772578028ba09e40702e",
+      "0x1cdc9f4a1cee354ceda0ad9243acfb80a962d3e842bfecd91e120e2db6ceb5e1",
+      "0x83a163c2276bcce6ae725eefbfc0d0d3fee64d97eace6b7c9adf51fed236f515"
+    ]
+  },
+  "0x6439543a2ff1d78d25abdc8daa75bb004e210183": {
+    "snapshot": {
+      "total": "87442201155278382885",
+      "balances": {
+        "delphi": "0",
+        "dex": "87442201155278382885",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x183846caee8105db55bb20697bb7367ad1ca8086ed34cf36c7e58929c46370ec",
+      "0x163328a37c1796bfbf9ece584a2ec17b7d0758aeecf37ab0158e4a1c2212f433",
+      "0xb6bd887a805ae4affe9d849ac986dfc53144c4edba9b2cf9da620ef921552a09",
+      "0x01eb3d8f4cbc72c042e7581808b75a24419f22ebd0915dc4710011b87fe07a04",
+      "0x383a9e57b23efe23f6b1025039af6ebca8521b228487772578028ba09e40702e",
+      "0x1cdc9f4a1cee354ceda0ad9243acfb80a962d3e842bfecd91e120e2db6ceb5e1",
+      "0x83a163c2276bcce6ae725eefbfc0d0d3fee64d97eace6b7c9adf51fed236f515"
+    ]
+  },
+  "0xb34938746d316e995aa81f9b3f94419a0a41e143": {
+    "snapshot": {
+      "total": "275153706741373520344496",
+      "balances": {
+        "delphi": "0",
+        "dex": "275153706741373520344496",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0xd2f3212a4d612d713041020b4cf282fe6669141395b56807b60e8f4072ae041e",
+      "0x163328a37c1796bfbf9ece584a2ec17b7d0758aeecf37ab0158e4a1c2212f433",
+      "0xb6bd887a805ae4affe9d849ac986dfc53144c4edba9b2cf9da620ef921552a09",
+      "0x01eb3d8f4cbc72c042e7581808b75a24419f22ebd0915dc4710011b87fe07a04",
+      "0x383a9e57b23efe23f6b1025039af6ebca8521b228487772578028ba09e40702e",
+      "0x1cdc9f4a1cee354ceda0ad9243acfb80a962d3e842bfecd91e120e2db6ceb5e1",
+      "0x83a163c2276bcce6ae725eefbfc0d0d3fee64d97eace6b7c9adf51fed236f515"
+    ]
+  },
+  "0x2968ea24ba368d85461411a50b14798940e2924d": {
+    "snapshot": {
+      "total": "1142383461872613679589",
+      "balances": {
+        "delphi": "0",
+        "dex": "1142383461872613679589",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x97cf5bc919f6d50fcc29e0c4a2338348d3a235bf46fb17439a75f8d44ad667a8",
+      "0x87428f0fc8fed6a2465bdea7bdd7c1381316116eace3a1e7099b841ccf5fe7d8",
+      "0xb6bd887a805ae4affe9d849ac986dfc53144c4edba9b2cf9da620ef921552a09",
+      "0x01eb3d8f4cbc72c042e7581808b75a24419f22ebd0915dc4710011b87fe07a04",
+      "0x383a9e57b23efe23f6b1025039af6ebca8521b228487772578028ba09e40702e",
+      "0x1cdc9f4a1cee354ceda0ad9243acfb80a962d3e842bfecd91e120e2db6ceb5e1",
+      "0x83a163c2276bcce6ae725eefbfc0d0d3fee64d97eace6b7c9adf51fed236f515"
+    ]
+  },
+  "0x34e6db0593c49438b286d45f572a599afec7fdde": {
+    "snapshot": {
+      "total": "1254272877834027440258",
+      "balances": {
+        "delphi": "0",
+        "dex": "1254272877834027440258",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x06b354a2bef55e0d2e8245ad1d8352f1968367da281a71dfb0a72a8985567663",
+      "0x87428f0fc8fed6a2465bdea7bdd7c1381316116eace3a1e7099b841ccf5fe7d8",
+      "0xb6bd887a805ae4affe9d849ac986dfc53144c4edba9b2cf9da620ef921552a09",
+      "0x01eb3d8f4cbc72c042e7581808b75a24419f22ebd0915dc4710011b87fe07a04",
+      "0x383a9e57b23efe23f6b1025039af6ebca8521b228487772578028ba09e40702e",
+      "0x1cdc9f4a1cee354ceda0ad9243acfb80a962d3e842bfecd91e120e2db6ceb5e1",
+      "0x83a163c2276bcce6ae725eefbfc0d0d3fee64d97eace6b7c9adf51fed236f515"
+    ]
+  },
+  "0x867a3b59fa70f4f82290818a7e1da9f0afe441e9": {
+    "snapshot": {
+      "total": "14350830578991715214",
+      "balances": {
+        "delphi": "0",
+        "dex": "14350830578991715214",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0xd39ce4a020f3e105469a3961434ed906913cf5759d761846458c1ab879e14852",
+      "0x3c7ecb7af868087e4652d079948021de85a84d5e29d8caa520be951493e8422a",
+      "0x1137e366b086617643af4aafe47acfb0fc4257d3bd83455cbc0c000e49f75399",
+      "0xec253dfe33bffb1430e735540e227c08820cd939754249d14bc07a1d627e684a",
+      "0x383a9e57b23efe23f6b1025039af6ebca8521b228487772578028ba09e40702e",
+      "0x1cdc9f4a1cee354ceda0ad9243acfb80a962d3e842bfecd91e120e2db6ceb5e1",
+      "0x83a163c2276bcce6ae725eefbfc0d0d3fee64d97eace6b7c9adf51fed236f515"
+    ]
+  },
+  "0x23f2d3944e50a70069960fbed023f8e90cf6baf0": {
+    "snapshot": {
+      "total": "3176745183392765284225",
+      "balances": {
+        "delphi": "0",
+        "dex": "3176745183392765284225",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x02a92b60ff7afb066a3f560da9e678bf3bc411c1077cbd249ecfc55babc3aafc",
+      "0x3c7ecb7af868087e4652d079948021de85a84d5e29d8caa520be951493e8422a",
+      "0x1137e366b086617643af4aafe47acfb0fc4257d3bd83455cbc0c000e49f75399",
+      "0xec253dfe33bffb1430e735540e227c08820cd939754249d14bc07a1d627e684a",
+      "0x383a9e57b23efe23f6b1025039af6ebca8521b228487772578028ba09e40702e",
+      "0x1cdc9f4a1cee354ceda0ad9243acfb80a962d3e842bfecd91e120e2db6ceb5e1",
+      "0x83a163c2276bcce6ae725eefbfc0d0d3fee64d97eace6b7c9adf51fed236f515"
+    ]
+  },
+  "0x50072aa47d80a291b57607aa3f458007a41312d4": {
+    "snapshot": {
+      "total": "44743761813258417532779",
+      "balances": {
+        "delphi": "0",
+        "dex": "44743761813258417532779",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x73aa8beab4159e8ff5ba31a5b23c64990cc7fdc8ddd66fbba1d33f46c789e293",
+      "0xe879c26e3353c36982218986f28a9af1fb7ccf86a55151e975ec011bc92eebdd",
+      "0x1137e366b086617643af4aafe47acfb0fc4257d3bd83455cbc0c000e49f75399",
+      "0xec253dfe33bffb1430e735540e227c08820cd939754249d14bc07a1d627e684a",
+      "0x383a9e57b23efe23f6b1025039af6ebca8521b228487772578028ba09e40702e",
+      "0x1cdc9f4a1cee354ceda0ad9243acfb80a962d3e842bfecd91e120e2db6ceb5e1",
+      "0x83a163c2276bcce6ae725eefbfc0d0d3fee64d97eace6b7c9adf51fed236f515"
+    ]
+  },
+  "0xa25a9b7c73158b3b34215925796ce6aa8100c13a": {
+    "snapshot": {
+      "total": "21603734805144136771560",
+      "balances": {
+        "delphi": "0",
+        "dex": "21603734805144136771560",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x0b1f8ce67616cb3918edfdf14c7b3a1e013e64d5134280a6e5666fa3e01dece9",
+      "0xe879c26e3353c36982218986f28a9af1fb7ccf86a55151e975ec011bc92eebdd",
+      "0x1137e366b086617643af4aafe47acfb0fc4257d3bd83455cbc0c000e49f75399",
+      "0xec253dfe33bffb1430e735540e227c08820cd939754249d14bc07a1d627e684a",
+      "0x383a9e57b23efe23f6b1025039af6ebca8521b228487772578028ba09e40702e",
+      "0x1cdc9f4a1cee354ceda0ad9243acfb80a962d3e842bfecd91e120e2db6ceb5e1",
+      "0x83a163c2276bcce6ae725eefbfc0d0d3fee64d97eace6b7c9adf51fed236f515"
+    ]
+  },
+  "0xf78856c953cb102236852f787f0fb4ed294132e7": {
+    "snapshot": {
+      "total": "24391382779501247568987",
+      "balances": {
+        "delphi": "0",
+        "dex": "24391382779501247568987",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0xad8e2d21f2e5683aa888d737938ebb3769239bba9aa82085d98b0a8b73e2be71",
+      "0xf2c41f26fa9584c964918f5f77d5003700ff5bfcab2693849d50c20be3b20dc4",
+      "0x02bdc0950e971132b0b9fbb53d3e894349e1e75644cbc0f3b094e34b9208b672",
+      "0xec253dfe33bffb1430e735540e227c08820cd939754249d14bc07a1d627e684a",
+      "0x383a9e57b23efe23f6b1025039af6ebca8521b228487772578028ba09e40702e",
+      "0x1cdc9f4a1cee354ceda0ad9243acfb80a962d3e842bfecd91e120e2db6ceb5e1",
+      "0x83a163c2276bcce6ae725eefbfc0d0d3fee64d97eace6b7c9adf51fed236f515"
+    ]
+  },
+  "0x227af3fedf02da0661c65f67e8aa516819a9d745": {
+    "snapshot": {
+      "total": "6721175507127611126634",
+      "balances": {
+        "delphi": "0",
+        "dex": "6721175507127611126634",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0xe70acf7ccd05a9afb335cb594b681e175ce8ccf3b1a8c09c7a6fed13d0292137",
+      "0xf2c41f26fa9584c964918f5f77d5003700ff5bfcab2693849d50c20be3b20dc4",
+      "0x02bdc0950e971132b0b9fbb53d3e894349e1e75644cbc0f3b094e34b9208b672",
+      "0xec253dfe33bffb1430e735540e227c08820cd939754249d14bc07a1d627e684a",
+      "0x383a9e57b23efe23f6b1025039af6ebca8521b228487772578028ba09e40702e",
+      "0x1cdc9f4a1cee354ceda0ad9243acfb80a962d3e842bfecd91e120e2db6ceb5e1",
+      "0x83a163c2276bcce6ae725eefbfc0d0d3fee64d97eace6b7c9adf51fed236f515"
+    ]
+  },
+  "0x4dace5a18a8c9d4d5f0a01269df49e3cc2b52750": {
+    "snapshot": {
+      "total": "643413622815842245",
+      "balances": {
+        "delphi": "0",
+        "dex": "643413622815842245",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0xd1971562e112abc85fdb73a74392b3612f8001ddd2dbe4a9dd7fad52b2874cd6",
+      "0x7de81b3880f4174770762ddd9e1614183eb9c0c71a3dbe2ffd7921f7909989be",
+      "0x02bdc0950e971132b0b9fbb53d3e894349e1e75644cbc0f3b094e34b9208b672",
+      "0xec253dfe33bffb1430e735540e227c08820cd939754249d14bc07a1d627e684a",
+      "0x383a9e57b23efe23f6b1025039af6ebca8521b228487772578028ba09e40702e",
+      "0x1cdc9f4a1cee354ceda0ad9243acfb80a962d3e842bfecd91e120e2db6ceb5e1",
+      "0x83a163c2276bcce6ae725eefbfc0d0d3fee64d97eace6b7c9adf51fed236f515"
+    ]
+  },
+  "0x7b591673fedde3195e14873026e820f14508ac03": {
+    "snapshot": {
+      "total": "1021089398025431364658",
+      "balances": {
+        "delphi": "0",
+        "dex": "1021089398025431364658",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x73ef1cae6cd91dc3b85840c124d5f71ac6d5e399537c919be6d00498f005feb9",
+      "0x7de81b3880f4174770762ddd9e1614183eb9c0c71a3dbe2ffd7921f7909989be",
+      "0x02bdc0950e971132b0b9fbb53d3e894349e1e75644cbc0f3b094e34b9208b672",
+      "0xec253dfe33bffb1430e735540e227c08820cd939754249d14bc07a1d627e684a",
+      "0x383a9e57b23efe23f6b1025039af6ebca8521b228487772578028ba09e40702e",
+      "0x1cdc9f4a1cee354ceda0ad9243acfb80a962d3e842bfecd91e120e2db6ceb5e1",
+      "0x83a163c2276bcce6ae725eefbfc0d0d3fee64d97eace6b7c9adf51fed236f515"
+    ]
+  },
+  "0xc5cacb708425961594b63ec171f4df27a9c0d8c9": {
+    "snapshot": {
+      "total": "104809828160252152429",
+      "balances": {
+        "delphi": "0",
+        "dex": "104809828160252152429",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x647ee66c7084d6c429af0296782097c59638ec96aa7d29c602336c5ab094c4ec",
+      "0xe9f0eca103e5ace553407e991a14681334d1af52b70df9e0e2a303dde3c32d1e",
+      "0x56283af53ad438574ab677271112ffb11669f3ba21f3a97fbc455f0f2c5ca254",
+      "0xd557b743603fc7b7c5438bbd7f8cdb7cf1af020f04687218052fd6fed7673814",
+      "0x6f6d776c96af2aaba50eb1a61d8b26862547f4568a9d744fde4ff9fa5232de68",
+      "0x1cdc9f4a1cee354ceda0ad9243acfb80a962d3e842bfecd91e120e2db6ceb5e1",
+      "0x83a163c2276bcce6ae725eefbfc0d0d3fee64d97eace6b7c9adf51fed236f515"
+    ]
+  },
+  "0x4c5f5130628a13faa077c999ed83e36b8811ba1b": {
+    "snapshot": {
+      "total": "343309636385578301088",
+      "balances": {
+        "delphi": "0",
+        "dex": "343309636385578301088",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x5615c46055574879779daa9c887ed7ebd776b0bb4a11ca062d2eb962e6ff04cf",
+      "0xe9f0eca103e5ace553407e991a14681334d1af52b70df9e0e2a303dde3c32d1e",
+      "0x56283af53ad438574ab677271112ffb11669f3ba21f3a97fbc455f0f2c5ca254",
+      "0xd557b743603fc7b7c5438bbd7f8cdb7cf1af020f04687218052fd6fed7673814",
+      "0x6f6d776c96af2aaba50eb1a61d8b26862547f4568a9d744fde4ff9fa5232de68",
+      "0x1cdc9f4a1cee354ceda0ad9243acfb80a962d3e842bfecd91e120e2db6ceb5e1",
+      "0x83a163c2276bcce6ae725eefbfc0d0d3fee64d97eace6b7c9adf51fed236f515"
+    ]
+  },
+  "0xc40719fda17c39b9887398c3670674a0e67ab04c": {
+    "snapshot": {
+      "total": "1430453510413782671093941",
+      "balances": {
+        "delphi": "0",
+        "dex": "1430453510413782671093941",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x18695b41494c0ef3dcd461c44708be4e8cb141a09f74c8b55fe5ff80b0632831",
+      "0x576ec9df97c1f27e17bd217855eef7aca315b92323207d36907c2142403ffeca",
+      "0x56283af53ad438574ab677271112ffb11669f3ba21f3a97fbc455f0f2c5ca254",
+      "0xd557b743603fc7b7c5438bbd7f8cdb7cf1af020f04687218052fd6fed7673814",
+      "0x6f6d776c96af2aaba50eb1a61d8b26862547f4568a9d744fde4ff9fa5232de68",
+      "0x1cdc9f4a1cee354ceda0ad9243acfb80a962d3e842bfecd91e120e2db6ceb5e1",
+      "0x83a163c2276bcce6ae725eefbfc0d0d3fee64d97eace6b7c9adf51fed236f515"
+    ]
+  },
+  "0xbd530a1c060dc600b951f16dc656e4ea451d1a2d": {
+    "snapshot": {
+      "total": "414701942544748540967703",
+      "balances": {
+        "delphi": "0",
+        "dex": "414701942544748540967703",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x0b99ac45c6a8c1f449de6b41400c960149671f029af1d92b171ccb96f09a5850",
+      "0x576ec9df97c1f27e17bd217855eef7aca315b92323207d36907c2142403ffeca",
+      "0x56283af53ad438574ab677271112ffb11669f3ba21f3a97fbc455f0f2c5ca254",
+      "0xd557b743603fc7b7c5438bbd7f8cdb7cf1af020f04687218052fd6fed7673814",
+      "0x6f6d776c96af2aaba50eb1a61d8b26862547f4568a9d744fde4ff9fa5232de68",
+      "0x1cdc9f4a1cee354ceda0ad9243acfb80a962d3e842bfecd91e120e2db6ceb5e1",
+      "0x83a163c2276bcce6ae725eefbfc0d0d3fee64d97eace6b7c9adf51fed236f515"
+    ]
+  },
+  "0x2d39fa81134f21c50a5bfef911e83b569c833ae1": {
+    "snapshot": {
+      "total": "25590620684991474263370",
+      "balances": {
+        "delphi": "0",
+        "dex": "25590620684991474263370",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x2e73b9aa1c5a68bc38d4b6b92efb5750d0e1ffea01317d69fdac967dcec3fa4c",
+      "0xf6ba31d14da9b63b317107ff225fd11e1278508e58f6b72a8f0bf6a807469d3a",
+      "0x11a8d9d64c3af9cb9eefd258c64d0352224cd18b3d27b1e4433d4e8a434785d1",
+      "0xd557b743603fc7b7c5438bbd7f8cdb7cf1af020f04687218052fd6fed7673814",
+      "0x6f6d776c96af2aaba50eb1a61d8b26862547f4568a9d744fde4ff9fa5232de68",
+      "0x1cdc9f4a1cee354ceda0ad9243acfb80a962d3e842bfecd91e120e2db6ceb5e1",
+      "0x83a163c2276bcce6ae725eefbfc0d0d3fee64d97eace6b7c9adf51fed236f515"
+    ]
+  },
+  "0x8f5d46fcadeca93356b70f40858219bb1fbf6088": {
+    "snapshot": {
+      "total": "121836114899932639673352",
+      "balances": {
+        "delphi": "0",
+        "dex": "121836114899932639673352",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x9efda8792e408affc80db614fbc0ce2944494841857c4a6f135b8ff03b1cf83c",
+      "0xf6ba31d14da9b63b317107ff225fd11e1278508e58f6b72a8f0bf6a807469d3a",
+      "0x11a8d9d64c3af9cb9eefd258c64d0352224cd18b3d27b1e4433d4e8a434785d1",
+      "0xd557b743603fc7b7c5438bbd7f8cdb7cf1af020f04687218052fd6fed7673814",
+      "0x6f6d776c96af2aaba50eb1a61d8b26862547f4568a9d744fde4ff9fa5232de68",
+      "0x1cdc9f4a1cee354ceda0ad9243acfb80a962d3e842bfecd91e120e2db6ceb5e1",
+      "0x83a163c2276bcce6ae725eefbfc0d0d3fee64d97eace6b7c9adf51fed236f515"
+    ]
+  },
+  "0x7c0f8a8b90320a2e42758dd5acb08ee97f9d4f14": {
+    "snapshot": {
+      "total": "1637784094337657734286",
+      "balances": {
+        "delphi": "0",
+        "dex": "1637784094337657734286",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x27e7bba7a675d8899bf4151df9fb9b9cb9be35f5e8be0790b727b993dd01808c",
+      "0x6db88d212062793ccc5b6d369edf7e3b4a56c4a4cb66c372e2cb09db31e023fc",
+      "0x11a8d9d64c3af9cb9eefd258c64d0352224cd18b3d27b1e4433d4e8a434785d1",
+      "0xd557b743603fc7b7c5438bbd7f8cdb7cf1af020f04687218052fd6fed7673814",
+      "0x6f6d776c96af2aaba50eb1a61d8b26862547f4568a9d744fde4ff9fa5232de68",
+      "0x1cdc9f4a1cee354ceda0ad9243acfb80a962d3e842bfecd91e120e2db6ceb5e1",
+      "0x83a163c2276bcce6ae725eefbfc0d0d3fee64d97eace6b7c9adf51fed236f515"
+    ]
+  },
+  "0xd876a8de5554175260386a3e434103dbdbaa28ee": {
+    "snapshot": {
+      "total": "5870649898724559534458",
+      "balances": {
+        "delphi": "0",
+        "dex": "5870649898724559534458",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0xf3a9ff4f608ee8e0544c8fe565fb6f80ab852d3553a639f222eb40e27d75ef16",
+      "0x6db88d212062793ccc5b6d369edf7e3b4a56c4a4cb66c372e2cb09db31e023fc",
+      "0x11a8d9d64c3af9cb9eefd258c64d0352224cd18b3d27b1e4433d4e8a434785d1",
+      "0xd557b743603fc7b7c5438bbd7f8cdb7cf1af020f04687218052fd6fed7673814",
+      "0x6f6d776c96af2aaba50eb1a61d8b26862547f4568a9d744fde4ff9fa5232de68",
+      "0x1cdc9f4a1cee354ceda0ad9243acfb80a962d3e842bfecd91e120e2db6ceb5e1",
+      "0x83a163c2276bcce6ae725eefbfc0d0d3fee64d97eace6b7c9adf51fed236f515"
+    ]
+  },
+  "0x2d7906d717fd309dcef957a05ba1f7a8b0124ea8": {
+    "snapshot": {
+      "total": "749309384079029769055",
+      "balances": {
+        "delphi": "0",
+        "dex": "749309384079029769055",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0xe67d66b538b4edaea15cc33bd496ff9a497ea5d171ecb13554cf4b811103fc13",
+      "0x5f5e6d0749bf5797d82b55e3cbbb1e26aa9840964e34a3d8f070c3b66f63c07c",
+      "0xdc457501f97f07bdc15f772215c3dfb8f03edd12d2431e1e00c113e47abfb23c",
+      "0x950461bb2541e7f7edd4717a6a94f18f40a902e101b03e52a05201ee9b0ae32f",
+      "0x6f6d776c96af2aaba50eb1a61d8b26862547f4568a9d744fde4ff9fa5232de68",
+      "0x1cdc9f4a1cee354ceda0ad9243acfb80a962d3e842bfecd91e120e2db6ceb5e1",
+      "0x83a163c2276bcce6ae725eefbfc0d0d3fee64d97eace6b7c9adf51fed236f515"
+    ]
+  },
+  "0x72e5ff41adee805b41f5096f34f54d2f4227bc85": {
+    "snapshot": {
+      "total": "379162379097387592",
+      "balances": {
+        "delphi": "0",
+        "dex": "379162379097387592",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x2a53168ac6620b07ea41017ce4c139ae1848c8e8ac03c05b5326a9c236b68b92",
+      "0x5f5e6d0749bf5797d82b55e3cbbb1e26aa9840964e34a3d8f070c3b66f63c07c",
+      "0xdc457501f97f07bdc15f772215c3dfb8f03edd12d2431e1e00c113e47abfb23c",
+      "0x950461bb2541e7f7edd4717a6a94f18f40a902e101b03e52a05201ee9b0ae32f",
+      "0x6f6d776c96af2aaba50eb1a61d8b26862547f4568a9d744fde4ff9fa5232de68",
+      "0x1cdc9f4a1cee354ceda0ad9243acfb80a962d3e842bfecd91e120e2db6ceb5e1",
+      "0x83a163c2276bcce6ae725eefbfc0d0d3fee64d97eace6b7c9adf51fed236f515"
+    ]
+  },
+  "0x6371c0cd370efe30a1f95095e8ab04f06ede9580": {
+    "snapshot": {
+      "total": "2331981147593338391744",
+      "balances": {
+        "delphi": "0",
+        "dex": "2331981147593338391744",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0xfeff934e19ac82cea0182ba813a9c1e8f676896fc91eca2d1b01228f3698d9b5",
+      "0x573fe9722972d236523aa19673e01f01791d47cf403e89ea97d25d5b4db04efa",
+      "0xdc457501f97f07bdc15f772215c3dfb8f03edd12d2431e1e00c113e47abfb23c",
+      "0x950461bb2541e7f7edd4717a6a94f18f40a902e101b03e52a05201ee9b0ae32f",
+      "0x6f6d776c96af2aaba50eb1a61d8b26862547f4568a9d744fde4ff9fa5232de68",
+      "0x1cdc9f4a1cee354ceda0ad9243acfb80a962d3e842bfecd91e120e2db6ceb5e1",
+      "0x83a163c2276bcce6ae725eefbfc0d0d3fee64d97eace6b7c9adf51fed236f515"
+    ]
+  },
+  "0x51454f9134dac754414b7b6b1689d7093f6f0456": {
+    "snapshot": {
+      "total": "10244075069081191032",
+      "balances": {
+        "delphi": "0",
+        "dex": "10244075069081191032",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0xe73aac9174eb2fc4115967fcd1167af9e355164cce811ce03be698fe119972f5",
+      "0x573fe9722972d236523aa19673e01f01791d47cf403e89ea97d25d5b4db04efa",
+      "0xdc457501f97f07bdc15f772215c3dfb8f03edd12d2431e1e00c113e47abfb23c",
+      "0x950461bb2541e7f7edd4717a6a94f18f40a902e101b03e52a05201ee9b0ae32f",
+      "0x6f6d776c96af2aaba50eb1a61d8b26862547f4568a9d744fde4ff9fa5232de68",
+      "0x1cdc9f4a1cee354ceda0ad9243acfb80a962d3e842bfecd91e120e2db6ceb5e1",
+      "0x83a163c2276bcce6ae725eefbfc0d0d3fee64d97eace6b7c9adf51fed236f515"
+    ]
+  },
+  "0x23e817b3982ba0e033dab4fa1b47088418ad6b2a": {
+    "snapshot": {
+      "total": "47952209856394154485315",
+      "balances": {
+        "delphi": "0",
+        "dex": "47952209856394154485315",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x9b6cddc85bffad11873b9d953c919a7129977ae12f71300377abe0019d3de33a",
+      "0x19cce577ff7af6ad5ba89a825a0cd5600ba380ce5877e83d4da544a8b10ab476",
+      "0xe3b940608fdd456d3e9b63844de6f9c96e26540f20f062d545403fec983bb504",
+      "0x950461bb2541e7f7edd4717a6a94f18f40a902e101b03e52a05201ee9b0ae32f",
+      "0x6f6d776c96af2aaba50eb1a61d8b26862547f4568a9d744fde4ff9fa5232de68",
+      "0x1cdc9f4a1cee354ceda0ad9243acfb80a962d3e842bfecd91e120e2db6ceb5e1",
+      "0x83a163c2276bcce6ae725eefbfc0d0d3fee64d97eace6b7c9adf51fed236f515"
+    ]
+  },
+  "0x285b7eea81a5b66b62e7276a24c1e0f83f7409c1": {
+    "snapshot": {
+      "total": "216715961835777704891",
+      "balances": {
+        "delphi": "0",
+        "dex": "216715961835777704891",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x421d11a1a94ac82cb6a366d50d313e4eb5252f4000cad9a8d660f90552384283",
+      "0x19cce577ff7af6ad5ba89a825a0cd5600ba380ce5877e83d4da544a8b10ab476",
+      "0xe3b940608fdd456d3e9b63844de6f9c96e26540f20f062d545403fec983bb504",
+      "0x950461bb2541e7f7edd4717a6a94f18f40a902e101b03e52a05201ee9b0ae32f",
+      "0x6f6d776c96af2aaba50eb1a61d8b26862547f4568a9d744fde4ff9fa5232de68",
+      "0x1cdc9f4a1cee354ceda0ad9243acfb80a962d3e842bfecd91e120e2db6ceb5e1",
+      "0x83a163c2276bcce6ae725eefbfc0d0d3fee64d97eace6b7c9adf51fed236f515"
+    ]
+  },
+  "0x68192eb5192308869dcab00ea7aee73af7c89286": {
+    "snapshot": {
+      "total": "22332070337808880140074",
+      "balances": {
+        "delphi": "0",
+        "dex": "22332070337808880140074",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0xdfb4481d105bc7e6f35a983cc4fcf968a874db5169ecdc867ea209b8dae0678b",
+      "0x3d9709ae951fbb10ac2120e04c62469719c4771ec961cacfcf3fe85d2a2284e8",
+      "0xe3b940608fdd456d3e9b63844de6f9c96e26540f20f062d545403fec983bb504",
+      "0x950461bb2541e7f7edd4717a6a94f18f40a902e101b03e52a05201ee9b0ae32f",
+      "0x6f6d776c96af2aaba50eb1a61d8b26862547f4568a9d744fde4ff9fa5232de68",
+      "0x1cdc9f4a1cee354ceda0ad9243acfb80a962d3e842bfecd91e120e2db6ceb5e1",
+      "0x83a163c2276bcce6ae725eefbfc0d0d3fee64d97eace6b7c9adf51fed236f515"
+    ]
+  },
+  "0x6fcade9de3ab9a1e57eab1684cf30e2ceba234fb": {
+    "snapshot": {
+      "total": "14252298990393443091307",
+      "balances": {
+        "delphi": "0",
+        "dex": "14252298990393443091307",
+        "sparta": "0"
+      }
+    },
+    "merkleIndex": 43,
+    "merkleProofs": [
+      "0x284f5df5b6bf500d9855777029af8b9bcd377100eb430f0e9cc1ee9505aeeffc",
+      "0x3d9709ae951fbb10ac2120e04c62469719c4771ec961cacfcf3fe85d2a2284e8",
+      "0xe3b940608fdd456d3e9b63844de6f9c96e26540f20f062d545403fec983bb504",
+      "0x950461bb2541e7f7edd4717a6a94f18f40a902e101b03e52a05201ee9b0ae32f",
+      "0x6f6d776c96af2aaba50eb1a61d8b26862547f4568a9d744fde4ff9fa5232de68",
+      "0x1cdc9f4a1cee354ceda0ad9243acfb80a962d3e842bfecd91e120e2db6ceb5e1",
+      "0x83a163c2276bcce6ae725eefbfc0d0d3fee64d97eace6b7c9adf51fed236f515"
+    ]
+  }
+}
