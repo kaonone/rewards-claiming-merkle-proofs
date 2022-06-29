@@ -1,0 +1,30 @@
+{
+  "0x0fc5418364a7de0aca014cd24d88d95138d27325": {
+    "snapshot": {
+      "total": "68375823697569202864",
+      "balances": {
+        "delphi": "0",
+        "dex": "0",
+        "sparta": "68375823697569202864"
+      }
+    },
+    "merkleIndex": 45,
+    "merkleProofs": [
+      "0x56a6108e172d139902383ea96415f88ce2d19935d813a6ea8517039060874ae3"
+    ]
+  },
+  "0x5e9b423c21236ee2e0c3f36c014aa0f3fc64fcd1": {
+    "snapshot": {
+      "total": "114519083400594794853",
+      "balances": {
+        "delphi": "0",
+        "dex": "0",
+        "sparta": "114519083400594794853"
+      }
+    },
+    "merkleIndex": 45,
+    "merkleProofs": [
+      "0xb9b6c685938bd672a4e9cdbc92e8569025a220dd3df7c5e4d210ac3815637241"
+    ]
+  }
+}
